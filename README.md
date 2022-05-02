@@ -71,7 +71,53 @@ python -u -m supar.cmds.crf2o_dependency evaluate -d 0 -p models/shp1 \
     --tree  --proj --mbr
 ```
 
-## Referencs
+##How to cite
+
+If you use the Kakataibo and/or Shipibo-Konibo treebanks, please cite the following articles:
+
+```
+@inproceedings{zariquiey-etal-2022-building,
+    title = "Building an Endangered Language Resource in the Classroom: {U}niversal {D}ependencies for {K}akataibo",
+    author = "Zariquiey, Roberto  and
+      Alvarado, Claudia and
+      Echevarría, Ximena and
+      Gomez, Luisa and
+      Gonzales, Rosa and
+      Illescas, Marian and
+      Oporto, Sabina and
+      Blum, Frederic and 
+      Oncevay, Arturo  and
+      Vera, Javier",
+    booktitle = "Proceedings of the 13th Language Resources and Evaluation Conference",
+    month = june,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "TBD",
+    language = "English",
+}
+@inproceedings{vasquez-etal-2018-toward,
+    title = "Toward {U}niversal {D}ependencies for {S}hipibo-Konibo",
+    author = "Vasquez, Alonso  and
+      Ego Aguirre, Renzo  and
+      Angulo, Candy  and
+      Miller, John  and
+      Villanueva, Claudia  and
+      Agi{\'c}, {\v{Z}}eljko  and
+      Zariquiey, Roberto  and
+      Oncevay, Arturo",
+    booktitle = "Proceedings of the Second Workshop on Universal Dependencies ({UDW} 2018)",
+    month = nov,
+    year = "2018",
+    address = "Brussels, Belgium",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W18-6018",
+    doi = "10.18653/v1/W18-6018",
+    pages = "151--161",
+}
+```
+
+## References
 
 Akbik, A., Bergmann, T., Blythe, D., Rasul, K., Schweter, S., and Vollgraf, R. (2019). Flair: An easy-to-use framework for state-of-the-art NLP. In NAACL 2019, 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (Demonstrations), pages 54–59.
 
