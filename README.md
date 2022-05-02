@@ -71,7 +71,7 @@ python -u -m supar.cmds.crf2o_dependency evaluate -d 0 -p models/shp1 \
     --tree  --proj --mbr
 ```
 
-##How to cite
+## How to cite
 
 If you use the Kakataibo and/or Shipibo-Konibo treebanks, please cite the following articles:
 
@@ -96,6 +96,7 @@ If you use the Kakataibo and/or Shipibo-Konibo treebanks, please cite the follow
     url = "TBD",
     language = "English",
 }
+
 @inproceedings{vasquez-etal-2018-toward,
     title = "Toward {U}niversal {D}ependencies for {S}hipibo-Konibo",
     author = "Vasquez, Alonso  and
