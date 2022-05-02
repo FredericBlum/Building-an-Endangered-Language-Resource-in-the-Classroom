@@ -1,0 +1,1090 @@
+1	Nokon	_	DET	DET	_	2	det	_	_
+2	papa	_	NOUN	NOUN	_	6	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	noa	_	PRON	PRON	_	6	iobj	_	_
+5	a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	marotixonai	_	VERB	VERB	_	0	root	_	_
+7	non	_	PRON	PRON	_	9	nmod	_	_
+8	n	_	PART	CLNOM	Clitic=Nomcl	7	case	_	_
+9	chopa	_	NOUN	NOUN	_	6	obj	_	_
+10	y	_	CCONJ	CONJ	_	11	cc	_	_
+11	kerosene	_	NOUN	NOUN	_	9	conj	_	_
+12	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Jaskáaxon	_	CCONJ	CONJ	_	4	cc	_	_
+2	,	_	PUNCT	PUNCT	_	1	punct	_	_
+3	boi	_	NOUN	NOUN	_	4	obj	_	_
+4	joniatia	_	VERB	VERB	_	0	root	_	_
+5	iki	_	AUX	AUX	_	4	aux	_	_
+6	;	_	PUNCT	PUNCT	_	4	punct	_	_
+7	ja	_	DET	DET	_	9	det	_	_
+8	xawi	_	NOUN	NOUN	_	9	nmod	_	_
+9	wai	_	NOUN	NOUN	_	11	obj	_	_
+10	kexá	_	ADP	POSTP	AdpType=Post	9	case	_	_
+11	atiti	_	VERB	VERB	_	4	advcl	_	_
+12	.	_	PUNCT	PUNCT	_	11	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	mato	_	PRON	PRON	_	5	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	ikon	_	NOUN	NOUN	_	5	obj	_	_
+5	yoitiai	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Jakon	_	ADJ	ADJ	_	5	nsubj	_	_
+2	ma	_	PART	CLPL	Clitic=Lfcl	1	Lfcl	_	_
+3	cha	_	PART	CLPL	Clitic=Lfcl	1	Lfcl	_	_
+4	riki	_	VERB	VERB	_	5	cop	_	_
+5	ea	_	PRON	PRON	_	0	root	_	_
+6	a	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+
+1	osantii	_	VERB	VERB	_	0	root	_	_
+2	riki	_	AUX	AUX	_	1	aux	_	_
+3	ea	_	PRON	PRON	_	1	nsubj	_	_
+4	a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+1	Cristóbal	_	PROPN	PROPN	_	7	nsubj	_	_
+2	Colón	_	PROPN	PROPN	_	1	flat	_	_
+3	ikia	_	VERB	VERB	_	7	cop	_	_
+4	iki	_	AUX	AUX	_	3	aux	_	_
+5	jawéki	_	NOUN	NOUN	_	7	nmod	_	_
+6	oma	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+7	joni	_	NOUN	NOUN	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	ea	_	PRON	PRON	_	5	nsubj	_	_
+2	n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	mia	_	PRON	PRON	_	5	obj	_	_
+4	a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	akintibanon	_	VERB	VERB	_	0	root	_	_
+
+1	¿	_	PUNCT	PUNCT	_	7	punct	_	_
+2	Non	_	DET	DET	_	3	det	_	_
+3	jema	_	NOUN	NOUN	_	5	compound	_	_
+4	koshiatia	_	VERB	VERB	_	5	amod	_	_
+5	joni	_	NOUN	NOUN	_	7	nsubj	_	_
+6	ki	_	PART	CLNOM	Clitic=Nomcl	7	aux:val	_	_
+7	jotiyamaai	_	VERB	VERB	_	0	root	_	_
+8	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Autista	_	ADJ	ADJ	_	3	nsubj	_	_
+2	riki	_	VERB	VERB	_	3	cop	_	_
+3	ea	_	PRON	PRON	_	0	root	_	_
+4	a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+1	ean	_	PRON	PRON	_	3	nsubj	_	_
+2	yoyo	_	INTJ	INTJ	_	3	compound	_	_
+3	atibanon	_	VERB	VERB	_	0	root	_	_
+
+1	jati	_	VERB	VERB	_	0	root	_	_
+2	rake	_	PART	CL2P	Clitic=Spcl	1	aux:val	_	_
+3	avión	_	NOUN	NOUN	_	1	nsubj	_	_
+4	shokobo	_	PART	CLPL	Clitic=Lfcl	3	Lfcl	_	_
+5	,	_	PUNCT	PUNCT	_	1	punct	_	_
+6	jene	_	NOUN	NOUN	_	8	obl	_	_
+7	n	_	PART	CLNOM	Clitic=Nomcl	6	case	_	_
+8	pakétiai	_	VERB	VERB	_	3	amod	_	_
+9	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2	jaweati	_	ADV	PINT	PronType=Int	6	advmod	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+4	noa	_	PRON	PRON	_	6	nsubj	_	_
+5	n	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	shíroatiti	_	VERB	VERB	_	0	root	_	_
+7	ma	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+8	iki	_	AUX	AUX	_	6	aux	_	_
+9	noa	_	PRON	PRON	_	11	nmod	_	_
+10	n	_	PART	CLNOM	Clitic=Nomcl	9	case	_	_
+11	rarebo	_	NOUN	NOUN	_	6	obj	_	_
+12	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	jawekeskatax	_	ADV	PINT	PronType=Int	5	advmod	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+4	ino	_	NOUN	NOUN	_	5	nsubj	_	_
+5	mawatia	_	VERB	VERB	_	0	root	_	_
+6	iki	_	AUX	AUX	_	5	aux	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	9	punct	_	_
+2	joni	_	NOUN	NOUN	_	9	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	ki	_	PART	CL2P	Clitic=Spcl	9	aux:val	_	_
+5	ja	_	DET	DET	_	6	det	_	_
+6	roo	_	NOUN	NOUN	_	8	obj	_	_
+7	icha	_	ADJ	ADJ	_	6	amod	_	_
+8	mératixon	_	VERB	VERB	_	9	advcl	_	_
+9	jawekeskáatia	_	VERB	VERB	_	0	root	_	_
+10	iki	_	AUX	AUX	_	9	aux	_	_
+11	?	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	jasinman	_	NOUN	NOUN	_	2	nmod	_	_
+2	bero	_	NOUN	NOUN	_	4	nsubj	_	_
+3	riki	_	VERB	VERB	_	4	cop	_	_
+4	maxko	_	ADJ	ADJ	_	0	root	_	_
+5	shoko	_	PART	CLPL	Clitic=Lfcl	4	Lfcl	_	_
+6	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Yoáshiko	_	PROPN	PROPN	_	4	nsubj	_	_
+2	Inka	_	PROPN	PROPN	_	4	nsubj	_	_
+3	ronki	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4	jatipaonike	_	VERB	VERB	_	0	root	_	_
+5	joni	_	NOUN	NOUN	_	4	obl	_	_
+6	icha	_	ADJ	ADJ	_	5	amod	_	_
+7	xaran	_	ADP	POSTP	AdpType=Post	5	case	_	_
+8	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Moa	_	ADV	ADV	_	2	advmod	_	_
+2	meshotiax	_	VERB	VERB	_	6	advcl	_	_
+3	pakétiketian	_	VERB	VERB	_	6	advcl	_	_
+4	yawish	_	NOUN	NOUN	_	6	nsubj	_	_
+5	an	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	pitia	_	VERB	VERB	_	0	root	_	_
+7	iki	_	AUX	AUX	_	6	aux	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Tenista	_	NOUN	NOUN	_	3	nsubj	_	_
+2	riki	_	VERB	VERB	_	3	cop	_	_
+3	ea	_	PRON	PRON	_	0	root	_	_
+4	a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+1	Jaskáa	_	CCONJ	CONJ	_	6	cc	_	_
+2	,	_	PUNCT	PUNCT	_	1	punct	_	_
+3	ino	_	NOUN	NOUN	_	6	nsubj	_	_
+4	n	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	piti	_	VERB	VERB	_	6	obj	_	_
+6	shinántiyamaa	_	VERB	VERB	_	0	root	_	_
+7	iki	_	AUX	AUX	_	6	aux	_	_
+8	,	_	PUNCT	PUNCT	_	6	punct	_	_
+9	pikástii	_	VERB	VERB	_	6	advcl	_	_
+10	ikiwanxon	_	AUX	AUX	_	9	aux	_	_
+11	bi	_	PART	CLPL	Clitic=Lfcl	10	Lfcl	_	_
+12	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	katikin	_	VERB	VERB	_	5	advcl	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+4	jawe	_	PRON	PINT	PronType=Int	5	obj	_	_
+5	meratia	_	VERB	VERB	_	0	root	_	_
+6	iki	_	AUX	AUX	_	5	aux	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	noinbo	_	NOUN	NOUN	_	6	nsubj	_	_
+2	ribi	_	PART	CLPL	Clitic=Lfcl	1	Lfcl	_	_
+3	iki	_	VERB	VERB	_	6	cop	_	_
+4	jakon	_	ADJ	ADJ	_	6	amod	_	_
+5	ma	_	PART	CLPL	Clitic=Lfcl	4	Lfcl	_	_
+6	jawéki	_	NOUN	NOUN	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Jati	_	VERB	VERB	_	4	nsubj	_	_
+2	rake	_	PART	CL2P	Clitic=Spcl	1	aux:val	_	_
+3	ani	_	ADJ	ADJ	_	4	amod	_	_
+4	manan	_	NOUN	NOUN	_	0	root	_	_
+5	,	_	PUNCT	PUNCT	_	1	punct	_	_
+6	keyá	_	ADJ	ADJ	_	4	amod	_	_
+7	bires	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	bari	_	NOUN	NOUN	_	6	obj	_	_
+2	ra	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+3	naí	_	NOUN	NOUN	_	4	compound	_	_
+4	koin	_	NOUN	NOUN	_	6	nsubj	_	_
+5	man	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	bepotike	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	ikon	_	NOUN	NOUN	_	5	obj	_	_
+5	yoitiai	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	mia	_	PRON	PRON	_	3	nmod	_	_
+2	n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	cuaderno	_	NOUN	NOUN	_	5	obl	_	_
+4	meran	_	ADP	POSTP	AdpType=Post	3	case	_	_
+5	wíshatiwe	_	VERB	VERB	_	0	root	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7	bake	_	NOUN	NOUN	_	9	nsubj	_	_
+8	n	_	PART	CLNOM	Clitic=Nomcl	7	case	_	_
+9	ointia	_	VERB	VERB	_	13	appos	_	_
+10	keskabo	_	ADP	POSTP	AdpType=Post	9	case	_	_
+11	,	_	PUNCT	PUNCT	_	9	punct	_	_
+12	meskó	_	ADJ	ADJ	_	13	amod	_	_
+13	sionbo	_	NOUN	NOUN	_	5	obj	_	_
+14	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	Jawerato	_	PRON	PINT	PronType=Int	3	amod	_	_
+3	bake	_	NOUN	NOUN	_	5	nsubj	_	_
+4	ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+5	ikia	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Xepotikana	_	VERB	VERB	_	0	root	_	_
+
+1	Aa	_	INTJ	INTJ	_	3	discourse	_	_
+2	¡	_	PUNCT	PUNCT	_	3	punct	_	_
+3	papa	_	NOUN	NOUN	_	0	root	_	_
+4	!	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	oxatia	_	VERB	VERB	_	0	root	_	_
+2	riki	_	VERB	VERB	_	1	aux	_	_
+3	mia	_	PRON	PRON	_	1	nsubj	_	_
+4	a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+1	Jaskáaxon	_	CCONJ	CONJ	_	3	cc	_	_
+2	incaatikin	_	VERB	VERB	_	3	advcl	_	_
+3	janetikana	_	VERB	VERB	_	0	root	_	_
+4	iki	_	AUX	AUX	_	3	aux	_	_
+5	,	_	PUNCT	PUNCT	_	3	punct	_	_
+6	ja	_	DET	DET	_	8	det	_	_
+7	Manco	_	PROPN	PROPN	_	8	compound	_	_
+8	Cápac	_	PROPN	PROPN	_	3	obj	_	_
+9	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	nete	_	NOUN	NOUN	_	2	nsubj	_	_
+2	resenentia	_	VERB	VERB	_	0	root	_	_
+3	o	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	:	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	jawen	_	DET	DET	_	2	det	_	_
+2	jane	_	NOUN	NOUN	_	3	obj	_	_
+3	wishatiwe	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	wishatiwe	_	VERB	VERB	_	0	root	_	_
+2	,	_	PUNCT	PUNCT	_	1	punct	_	_
+3	wetsa	_	ADJ	ADJ	_	4	amod	_	_
+4	yapa	_	NOUN	NOUN	_	6	nmod	_	_
+5	n	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	janebo	_	NOUN	NOUN	_	1	obj	_	_
+7	ribi	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+8	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	jainoax	_	ADV	ADV	_	4	advmod	_	_
+2	ki	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+3	jonin	_	NOUN	NOUN	_	4	nsubj	_	_
+4	mextetia	_	VERB	VERB	_	0	root	_	_
+5	iki	_	AUX	AUX	_	4	aux	_	_
+6	.	_	PUNCT	PUNCT	_	4	punct	_	_
+7	mextetia	_	VERB	VERB	_	0	root	_	_
+8	,	_	PUNCT	PUNCT	_	1	punct	_	_
+9	katiax	_	VERB	VERB	_	1	advcl	_	_
+10	onki	_	PART	CL2P	Clitic=Spcl	1	aux:val	_	_
+11	ikia	_	AUX	AUX	_	8	aux	_	_
+12	iki	_	AUX	AUX	_	5	aux	_	_
+13	naman	_	ADV	ADV	_	8	advmod	_	_
+14	paketii	_	VERB	VERB	_	1	advcl	_	_
+15	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	Nokon	_	DET	DET	_	2	det	_	_
+2	tita	_	NOUN	NOUN	_	5	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	wai	_	NOUN	NOUN	_	5	obj	_	_
+5	orotiai	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	8	punct	_	_
+2	jaweati	_	ADV	PINT	PronType=Int	8	advmod	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	8	advcl	_	_
+4	noa	_	PRON	PRON	_	6	nmod	_	_
+5	n	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	rarebo	_	NOUN	NOUN	_	8	obj	_	_
+7	noan	_	PRON	PRON	_	8	nsubj	_	_
+8	noititi	_	VERB	VERB	_	0	root	_	_
+9	iki	_	AUX	AUX	_	8	aux	_	_
+10	?	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	yokati	_	VERB	VERB	_	0	root	_	_
+2	resi	_	PART	CLPL	Clitic=Lfcl	1	Lfcl	_	_
+3	riki	_	AUX	AUX	_	1	aux	_	_
+4	ea	_	PRON	PRON	_	1	nsubj	_	_
+5	a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+
+1	Jainoax	_	CCONJ	CONJ	_	4	cc	_	_
+2	ea	_	PRON	PRON	_	4	nsubj	_	_
+3	a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	boéxeketia	_	VERB	VERB	_	0	root	_	_
+5	iki	_	AUX	AUX	_	4	aux	_	_
+6	nokon	_	DET	DET	_	7	det	_	_
+7	boéxeti	_	NOUN	NOUN	_	4	obl	_	_
+8	n	_	PART	CLNOM	Clitic=Nomcl	7	case	_	_
+9	bi	_	PART	CLPL	Clitic=Lfcl	7	Lfcl	_	_
+10	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	noa	_	PRON	PRON	_	3	nsubj	_	_
+2	n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	xeatiti	_	VERB	VERB	_	0	root	_	_
+4	iki	_	AUX	AUX	_	3	aux	_	_
+5	jakon	_	ADJ	ADJ	_	6	amod	_	_
+6	ompax	_	NOUN	NOUN	_	3	obj	_	_
+7	bicho	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+8	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Apoo	_	INTJ	INTJ	_	0	root	_	_
+2	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	7	punct	_	_
+2	mia	_	PRON	PRON	_	7	nsubj	_	_
+3	a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	frances	_	NOUN	NOUN	_	7	obl	_	_
+5	nin	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	yoyo	_	INTJ	INTJ	_	7	compound	_	_
+7	ikiai	_	VERB	VERB	_	0	root	_	_
+8	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	Jaskatax	_	CCONJ	CONJ	_	6	cc	_	_
+2	,	_	PUNCT	PUNCT	_	1	punct	_	_
+3	ja	_	DET	DET	_	5	det	_	_
+4	maxó	_	NOUN	NOUN	_	5	compound	_	_
+5	bakeranon	_	NOUN	NOUN	_	6	nsubj	_	_
+6	katia	_	VERB	VERB	_	0	root	_	_
+7	iki	_	AUX	AUX	_	6	aux	_	_
+8	,	_	PUNCT	PUNCT	_	6	punct	_	_
+9	chonka	_	NUM	NUM	_	11	nummod	_	_
+10	pichika	_	NUM	NUM	_	9	compound	_	_
+11	joni	_	NOUN	NOUN	_	6	obl	_	_
+12	a	_	PART	CLNOM	Clitic=Nomcl	11	case	_	_
+13	.	_	PUNCT	PUNCT	_	11	punct	_	_
+
+1	bari	_	NOUN	NOUN	_	2	nsubj	_	_
+2	jotiaiori	_	VERB	VERB	_	0	root	_	_
+
+1	jotiyamaai	_	VERB	VERB	_	0	root	_	_
+2	Presidente	_	NOUN	NOUN	_	1	nsubj	_	_
+3	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+5	betiyama	_	VERB	VERB	_	0	root	_	_
+6	biresa	_	PART	CLPL	Clitic=Lfcl	5	Lfcl	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	wasnonbo	_	NOUN	NOUN	_	3	obj	_	_
+2	soatinon	_	VERB	VERB	_	3	advcl	_	_
+3	atikanwe	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	8	punct	_	_
+2	yawish	_	NOUN	NOUN	_	8	nsubj	_	_
+3	an	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	ki	_	PART	CL2P	Clitic=Spcl	8	aux:val	_	_
+5	,	_	PUNCT	PUNCT	_	2	punct	_	_
+6	jaweraki	_	ADV	PINT	PronType=Int	8	advmod	_	_
+7	ino	_	NOUN	NOUN	_	8	obj	_	_
+8	parantia	_	VERB	VERB	_	0	root	_	_
+9	iki	_	AUX	AUX	_	8	aux	_	_
+10	?	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Bueno	_	INTJ	INTJ	_	4	discourse	_	_
+2	,	_	PUNCT	PUNCT	_	1	punct	_	_
+3	rama	_	ADV	ADV	_	4	advmod	_	_
+4	atiwe	_	VERB	VERB	_	0	root	_	_
+5	maitiatikin	_	VERB	VERB	_	4	advcl	_	_
+6	nato	_	ADJ	ADJ	_	7	amod	_	_
+7	pei	_	NOUN	NOUN	_	10	obj	_	_
+8	ani	_	ADJ	ADJ	_	7	amod	_	_
+9	chaa	_	PART	CLPL	Clitic=Lfcl	8	Lfcl	_	_
+10	bitixon	_	VERB	VERB	_	4	advcl	_	_
+11	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	4	punct	_	_
+2	jáwekeskati	_	ADV	PINT	PronType=Int	4	advmod	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4	jaskátiai	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Jatibitian	_	ADV	ADV	_	5	advmod	_	_
+2	ra	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+3	ea	_	PRON	PRON	_	5	nsubj	_	_
+4	a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	katiai	_	VERB	VERB	_	0	root	_	_
+
+1	Jatian	_	CCONJ	CONJ	_	6	cc	_	_
+2	yapa	_	NOUN	NOUN	_	3	compound	_	_
+3	ainbo	_	NOUN	NOUN	_	6	nsubj	_	_
+4	n	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	jato	_	PRON	PRON	_	6	iobj	_	_
+6	nokotiwetsayamaa	_	VERB	VERB	_	0	root	_	_
+7	iki	_	AUX	AUX	_	6	aux	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	jáskataxxon	_	CCONJ	CONJ	_	4	cc	_	_
+2	ki	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+3	moa	_	ADV	ADV	_	4	advmod	_	_
+4	katiti	_	VERB	VERB	_	0	root	_	_
+5	átipantiyamakana	_	AUX	AUX	_	4	aux	_	_
+6	iki	_	AUX	AUX	_	5	aux	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Escuela	_	NOUN	NOUN	_	2	compound	_	_
+2	tapo	_	NOUN	NOUN	_	5	obj	_	_
+3	noa	_	PRON	PRON	_	5	nsubj	_	_
+4	n	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	matsótiti	_	VERB	VERB	_	0	root	_	_
+6	iki	_	AUX	AUX	_	5	aux	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Jaská	_	CCONJ	CONJ	_	7	cc	_	_
+2	,	_	PUNCT	PUNCT	_	1	punct	_	_
+3	ja	_	DET	DET	_	4	det	_	_
+4	ino	_	NOUN	NOUN	_	7	nsubj	_	_
+5	bochiki	_	ADV	ADV	_	7	advmod	_	_
+6	kotsatiax	_	VERB	VERB	_	7	advcl	_	_
+7	janxbátia	_	VERB	VERB	_	0	root	_	_
+8	iki	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	7	punct	_	_
+2	jawe	_	PRON	PINT	PronType=Int	7	obj	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	7	aux:val	_	_
+4	ainbo	_	NOUN	NOUN	_	7	nsubj	_	_
+5	n	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	kachiokea	_	ADV	ADV	_	7	advmod	_	_
+7	nikatia	_	VERB	VERB	_	0	root	_	_
+8	iki	_	AUX	AUX	_	7	aux	_	_
+9	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	natobo	_	PRON	PRON	_	5	obj	_	_
+5	onántia	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	ja	_	PRON	PRON	_	4	nsubj	_	_
+2	n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	ra	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4	pitiai	_	VERB	VERB	_	0	root	_	_
+5	nami	_	NOUN	NOUN	_	4	obj	_	_
+6	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Australia	_	PROPN	PROPN	_	3	nsubj	_	_
+2	iki	_	VERB	VERB	_	3	cop	_	_
+3	nasi	_	NOUN	NOUN	_	0	root	_	_
+4	ani	_	ADJ	ADJ	_	3	amod	_	_
+5	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	jawe	_	PRON	PINT	PronType=Int	5	obj	_	_
+5	jonetia	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	Jawetii	_	NUM	PINT	PronType=Int	3	amod	_	_
+3	shishi	_	NOUN	NOUN	_	5	obj	_	_
+4	ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+5	bitikana	_	VERB	VERB	_	0	root	_	_
+6	iki	_	AUX	AUX	_	5	aux	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Jatian	_	CCONJ	CONJ	_	4	cc	_	_
+2	jawen	_	DET	DET	_	3	det	_	_
+3	bene	_	NOUN	NOUN	_	4	nsubj	_	_
+4	kati	_	VERB	VERB	_	0	root	_	_
+5	ribaa	_	PART	CLPL	Clitic=Lfcl	4	Lfcl	_	_
+6	iki	_	AUX	AUX	_	4	aux	_	_
+7	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	atiti	_	VERB	VERB	_	5	xcomp	_	_
+5	atipantia	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Aniparo	_	NOUN	NOUN	_	5	obl	_	_
+2	kexá	_	ADP	POSTP	AdpType=Post	1	case	_	_
+3	ra	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+4	oi	_	NOUN	NOUN	_	5	nsubj	_	_
+5	betiyamaai	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	Jaskáa	_	CCONJ	CONJ	_	5	cc	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+4	ja	_	DET	DET	_	5	det	_	_
+5	jeme	_	NOUN	NOUN	_	0	root	_	_
+6	jawe	_	PRON	PINT	PronType=Int	5	nsubj	_	_
+7	ikia	_	VERB	VERB	_	5	cop	_	_
+8	iki	_	AUX	AUX	_	7	aux	_	_
+9	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2	Jawekeskaaxon	_	ADV	PINT	PronType=Int	6	advmod	_	_
+3	ja	_	PRON	PRON	_	6	nsubj	_	_
+4	onsá	_	ADJ	ADJ	_	5	amod	_	_
+5	yoina	_	NOUN	NOUN	_	6	obj	_	_
+6	retetia	_	VERB	VERB	_	0	root	_	_
+7	iki	_	AUX	AUX	_	6	aux	_	_
+8	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	7	punct	_	_
+2	bésoti	_	VERB	VERB	_	7	advcl	_	_
+3	kiax	_	PART	CL2P	Clitic=Spcl	7	aux:val	_	_
+4	jawen	_	DET	DET	_	5	det	_	_
+5	epa	_	NOUN	NOUN	_	7	nsubj	_	_
+6	jaweraki	_	PRON	PINT	PronType=Int	7	obj	_	_
+7	ikia	_	VERB	VERB	_	0	root	_	_
+8	iki	_	AUX	AUX	_	7	aux	_	_
+9	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	riki	_	VERB	VERB	_	2	cop	_	_
+2	ea	_	PRON	PRON	_	0	root	_	_
+3	a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+
+1	Tee	_	NOUN	NOUN	_	2	compound	_	_
+2	atiti	_	VERB	VERB	_	4	obl	_	_
+3	ya	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	riki	_	VERB	VERB	_	0	root	_	_
+5	noa	_	PRON	PRON	_	4	nsubj	_	_
+6	a	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+
+1	¿	_	PUNCT	PUNCT	_	7	punct	_	_
+2	mia	_	PRON	PRON	_	7	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	ja	_	PRON	PRON	_	6	det	_	_
+5	n	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	ointi	_	NOUN	NOUN	_	7	obj	_	_
+7	sawetiai	_	VERB	VERB	_	0	root	_	_
+8	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	3	punct	_	_
+2	Jaweki	_	PINT	PINT	PronType=Int	3	obj	_	_
+3	winotiti	_	VERB	VERB	_	0	root	_	_
+4	iki	_	AUX	AUX	_	3	aux	_	_
+5	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Ransatii	_	VERB	VERB	_	0	root	_	_
+2	riki	_	AUX	AUX	_	1	aux	_	_
+3	ea	_	PRON	PRON	_	1	nsubj	_	_
+4	a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+1	Jatian	_	CCONJ	CONJ	_	5	cc	_	_
+2	moa	_	ADV	ADV	_	5	advmod	_	_
+3	mapétiketian	_	VERB	VERB	_	5	advcl	_	_
+4	oinaxax	_	VERB	VERB	_	5	advcl	_	_
+5	pikóti	_	VERB	VERB	_	0	root	_	_
+6	ribia	_	PART	CLPL	Clitic=Lfcl	5	Lfcl	_	_
+7	iki	_	AUX	AUX	_	5	aux	_	_
+8	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Toya	_	ADJ	ADJ	_	3	nsubj	_	_
+2	riki	_	VERB	VERB	_	3	cop	_	_
+3	ea	_	PRON	PRON	_	0	root	_	_
+4	a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+1	Jaskarainxon	_	CCONJ	CONJ	_	4	cc	_	_
+2	jaton	_	DET	DET	_	3	det	_	_
+3	Inca	_	PROPN	PROPN	_	4	obj	_	_
+4	ochóatikana	_	VERB	VERB	_	0	root	_	_
+5	iki	_	AUX	AUX	_	4	aux	_	_
+6	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	4	punct	_	_
+2	jaweskarain	_	PRON	PINT	PronType=Int	4	obj	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4	bachiatiai	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2	mia	_	PRON	PRON	_	6	nsubj	_	_
+3	a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	sere	_	NOUN	NOUN	_	6	obl	_	_
+5	ya	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	iki	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Jakiribi	_	ADV	ADV	_	4	advmod	_	_
+2	atixon	_	VERB	VERB	_	4	advcl	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4	bitia	_	VERB	VERB	_	0	root	_	_
+5	iki	_	AUX	AUX	_	4	aux	_	_
+6	,	_	PUNCT	PUNCT	_	4	punct	_	_
+7	ani	_	ADJ	ADJ	_	8	amod	_	_
+8	tora	_	NOUN	NOUN	_	4	obj	_	_
+9	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	Jainoax	_	CCONJ	CONJ	_	6	cc	_	_
+2	meskó	_	ADJ	ADJ	_	3	amod	_	_
+3	tsinitibo	_	NOUN	NOUN	_	6	obj	_	_
+4	ribi	_	PART	CLPL	Clitic=Lfcl	3	Lfcl	_	_
+5	jato	_	PRON	PRON	_	6	iobj	_	_
+6	onantimakatiai	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	7	punct	_	_
+2	Jawen	_	DET	DET	_	3	det	_	_
+3	akinti	_	NOUN	NOUN	_	7	obj	_	_
+4	ki	_	PART	CL2P	Clitic=Spcl	7	aux:val	_	_
+5	ja	_	DET	DET	_	6	det	_	_
+6	joni	_	NOUN	NOUN	_	7	iobj	_	_
+7	yoitia	_	VERB	VERB	_	0	root	_	_
+8	iki	_	AUX	AUX	_	7	aux	_	_
+9	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	jaskáaxon	_	CCONJ	CONJ	_	8	cc	_	_
+2	ki	_	PART	CL2P	Clitic=Spcl	8	aux:val	_	_
+3	ja	_	DET	DET	_	4	det	_	_
+4	joni	_	NOUN	NOUN	_	8	nsubj	_	_
+5	icha	_	ADJ	ADJ	_	6	amod	_	_
+6	piti	_	VERB	VERB	_	8	obl	_	_
+7	a	_	PART	CLNOM	Clitic=Nomcl	6	case	_	_
+8	banétinike	_	VERB	VERB	_	0	root	_	_
+9	;	_	PUNCT	PUNCT	_	8	punct	_	_
+10	jatíbi	_	ADJ	ADJ	_	11	amod	_	_
+11	roo	_	NOUN	NOUN	_	12	obj	_	_
+12	rétetikin	_	VERB	VERB	_	13	advcl	_	_
+13	kéyotiax	_	VERB	VERB	_	8	advcl	_	_
+14	.	_	PUNCT	PUNCT	_	13	punct	_	_
+
+1	Jatian	_	CCONJ	CONJ	_	4	cc	_	_
+2	yawishan	_	NOUN	NOUN	_	4	nsubj	_	_
+3	makan	_	NOUN	NOUN	_	4	obj	_	_
+4	nexatia	_	VERB	VERB	_	0	root	_	_
+5	iki	_	AUX	AUX	_	4	aux	_	_
+6	nishi	_	NOUN	NOUN	_	4	obl	_	_
+7	n	_	PART	CLNOM	Clitic=Nomcl	6	case	_	_
+8	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	ensalada	_	NOUN	NOUN	_	5	obj	_	_
+5	kénatiai	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	jawekeskarain	_	ADV	PINT	PronType=Int	5	advmod	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+4	jonibo	_	NOUN	NOUN	_	5	nsubj	_	_
+5	katikana	_	VERB	VERB	_	0	root	_	_
+6	iki	_	AUX	AUX	_	5	aux	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	3	punct	_	_
+2	Jawetio	_	ADV	PINT	PronType=Int	3	amod	_	_
+3	ani	_	ADJ	ADJ	_	0	root	_	_
+4	rin	_	PART	CL2P	Clitic=Spcl	3	cop	_	_
+5	jawen	_	DET	DET	_	6	det	_	_
+6	jiwi	_	NOUN	NOUN	_	3	nsubj	_	_
+7	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	rama	_	ADV	ADV	_	8	advmod	_	_
+2	ra	_	PART	CL2P	Clitic=Spcl	8	aux:val	_	_
+3	noa	_	PRON	PRON	_	8	nsubj	_	_
+4	n	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	jakon	_	ADJ	ADJ	_	7	advmod	_	_
+6	shaman	_	PART	CLPL	Clitic=Lfcl	5	Lfcl	_	_
+7	atikin	_	VERB	VERB	_	8	advcl	_	_
+8	chibantiai	_	VERB	VERB	_	0	root	_	_
+9	,	_	PUNCT	PUNCT	_	8	punct	_	_
+10	rekentia	_	VERB	VERB	_	11	acl	_	_
+11	baritia	_	NOUN	NOUN	_	8	obj	_	_
+12	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	latin	_	NOUN	NOUN	_	5	obj	_	_
+5	onántia	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Jatian	_	CCONJ	CONJ	_	12	cc	_	_
+2	28	_	NUM	NUM	_	7	advmod	_	_
+3	de	_	SYM	SYM	_	2	flat	_	_
+4	julio	_	PROPN	PROPN	_	2	flat	_	_
+5	de	_	SYM	SYM	_	2	flat	_	_
+6	1821	_	NUM	NUM	_	2	flat	_	_
+7	ikiketian	_	VERB	VERB	_	12	advcl	_	_
+8	,	_	PUNCT	PUNCT	_	7	punct	_	_
+9	San	_	PROPN	PROPN	_	12	nsubj	_	_
+10	Martin	_	PROPN	PROPN	_	9	flat	_	_
+11	man	_	PART	CLNOM	Clitic=Nomcl	9	case	_	_
+12	yoitia	_	VERB	VERB	_	0	root	_	_
+13	iki	_	AUX	AUX	_	12	aux	_	_
+14	:	_	PUNCT	PUNCT	_	12	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2	Jainxon	_	CCONJ	CONJ	_	6	cc	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+4	ja	_	DET	DET	_	5	det	_	_
+5	ainbo	_	NOUN	NOUN	_	6	nsubj	_	_
+6	jáwekeskaatia	_	VERB	VERB	_	0	root	_	_
+7	iki	_	AUX	AUX	_	6	aux	_	_
+8	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	Icha	_	ADJ	ADJ	_	3	obl	_	_
+2	ya	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	riki	_	VERB	VERB	_	0	root	_	_
+4	noa	_	PRON	PRON	_	3	nsubj	_	_
+5	a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+
+1	ninkatii	_	VERB	VERB	_	0	root	_	_
+2	riki	_	AUX	AUX	_	1	aux	_	_
+3	ea	_	PRON	PRON	_	1	nsubj	_	_
+4	a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+1	¿	_	PUNCT	PUNCT	_	4	punct	_	_
+2	jawerano	_	ADV	PINT	PronType=Int	4	advmod	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4	katikana	_	VERB	VERB	_	0	root	_	_
+5	iki	_	AUX	AUX	_	4	aux	_	_
+6	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	kikín	_	ADV	ADV	_	5	advmod	_	_
+2	shaman	_	PART	CLPL	Clitic=Lfcl	1	Lfcl	_	_
+3	atikin	_	VERB	VERB	_	5	advcl	_	_
+4	esé	_	NOUN	NOUN	_	5	obj	_	_
+5	onantiwe	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Ja	_	DET	DET	_	2	det	_	_
+2	konxan	_	NOUN	NOUN	_	3	obj	_	_
+3	toetii	_	VERB	VERB	_	10	obj	_	_
+4	to	_	X	ONOM	_	5	obj	_	_
+5	iitiaitian	_	VERB	VERB	_	3	advcl	_	_
+6	ki	_	PART	CL2P	Clitic=Spcl	3	aux:val	_	_
+7	,	_	PUNCT	PUNCT	_	3	punct	_	_
+8	ino	_	NOUN	NOUN	_	10	nsubj	_	_
+9	n	_	PART	CLNOM	Clitic=Nomcl	8	case	_	_
+10	nikatia	_	VERB	VERB	_	0	root	_	_
+11	iki	_	AUX	AUX	_	10	aux	_	_
+12	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	Mananxawe	_	NOUN	NOUN	_	5	nsubj	_	_
+2	betan	_	CCONJ	CONJ	_	3	cc	_	_
+3	nonon	_	NOUN	NOUN	_	1	conj	_	_
+4	rabé	_	NUM	NUM	_	3	nummod	_	_
+5	ikini	_	VERB	VERB	_	0	root	_	_
+
+1	Nií	_	NOUN	NOUN	_	4	obl	_	_
+2	meran	_	ADP	POSTP	AdpType=Post	1	case	_	_
+3	bai	_	NOUN	NOUN	_	4	nsubj	_	_
+4	jatike	_	VERB	VERB	_	0	root	_	_
+5	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	Ishton	_	ADV	ADV	_	3	advmod	_	_
+3	katiai	_	VERB	VERB	_	5	nsubj	_	_
+4	rin	_	PART	CL2P	Clitic=Spcl	5	cop	_	_
+5	mia	_	PRON	PRON	_	0	root	_	_
+6	a	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2	tsoa	_	PRON	PINT	PronType=Int	6	nsubj	_	_
+3	a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	bicho	_	PART	CLPL	Clitic=Lfcl	2	Lfcl	_	_
+5	ki	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+6	banetia	_	VERB	VERB	_	0	root	_	_
+7	iki	_	AUX	AUX	_	6	aux	_	_
+8	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2	mia	_	PRON	PRON	_	4	det	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	papa	_	NOUN	NOUN	_	6	nsubj	_	_
+5	ki	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+6	jaská	_	ADV	ADV	_	0	root	_	_
+7	bires	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+8	tani	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+9	iitiai	_	VERB	VERB	_	6	cop	_	_
+10	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	ea	_	PRON	PRON	_	6	nsubj	_	_
+2	n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	ra	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+4	mia	_	PRON	PRON	_	6	obj	_	_
+5	a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	atikinkaske	_	VERB	VERB	_	0	root	_	_
+
+1	Ja	_	DET	DET	_	2	det	_	_
+2	jawékibo	_	NOUN	NOUN	_	4	nsubj	_	_
+3	iki	_	VERB	VERB	_	4	cop	_	_
+4	koríki	_	NOUN	NOUN	_	0	root	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	centavo	_	NOUN	NOUN	_	4	conj	_	_
+7	,	_	PUNCT	PUNCT	_	8	punct	_	_
+8	yami	_	NOUN	NOUN	_	4	conj	_	_
+9	,	_	PUNCT	PUNCT	_	10	punct	_	_
+10	yami	_	NOUN	NOUN	_	11	compound	_	_
+11	boí	_	NOUN	NOUN	_	4	conj	_	_
+12	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2	jawekeskati	_	ADV	PINT	PronType=Int	6	advmod	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+4	ino	_	NOUN	NOUN	_	6	nsubj	_	_
+5	naman	_	ADV	ADV	_	6	advmod	_	_
+6	pakétia	_	VERB	VERB	_	0	root	_	_
+7	iki	_	AUX	AUX	_	6	aux	_	_
+8	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	7	punct	_	_
+2	Escuela	_	NOUN	NOUN	_	3	obj	_	_
+3	ointii	_	VERB	VERB	_	7	advcl	_	_
+4	ki	_	PART	CL2P	Clitic=Spcl	7	aux:val	_	_
+5	wetsa	_	DET	DET	_	6	det	_	_
+6	apo	_	NOUN	NOUN	_	7	nsubj	_	_
+7	jotiyamaai	_	VERB	VERB	_	0	root	_	_
+8	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	7	punct	_	_
+2	jawekeskaaxon	_	ADV	PINT	PronType=Int	7	advmod	_	_
+3	ki	_	PART	CL2P	Clitic=Spcl	7	aux:val	_	_
+4	mananxawe	_	NOUN	NOUN	_	7	nsubj	_	_
+5	n	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	ino	_	NOUN	NOUN	_	7	obj	_	_
+7	retetia	_	VERB	VERB	_	0	root	_	_
+8	iki	_	AUX	AUX	_	7	aux	_	_
+9	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	pontetii	_	NOUN	NOUN	_	3	advcl	_	_
+2	yoyo	_	INTJ	INTJ	_	3	compound	_	_
+3	ikiwe	_	VERB	VERB	_	0	root	_	_
+
+1	Ja	_	DET	DET	_	2	det	_	_
+2	joni	_	NOUN	NOUN	_	4	nsubj	_	_
+3	ra	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4	jotiai	_	VERB	VERB	_	0	root	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	noa	_	PRON	PRON	_	8	nmod	_	_
+7	n	_	PART	CLNOM	Clitic=Nomcl	6	case	_	_
+8	reken	_	NOUN	NOUN	_	2	appos	_	_
+9	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	jaweki	_	NOUN	NOUN	_	5	obj	_	_
+5	maxkatia	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	ointiwe	_	VERB	VERB	_	0	root	_	_
+2	¡	_	PUNCT	PUNCT	_	3	punct	_	_
+3	tita	_	NOUN	NOUN	_	1	vocative	_	_
+4	!	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	Jawerano	_	ADV	PINT	PronType=Int	5	advmod	_	_
+3	rin	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+4	Norte	_	PROPN	PROPN	_	5	compound	_	_
+5	América	_	PROPN	PROPN	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	wíshatiwe	_	VERB	VERB	_	0	root	_	_
+2	,	_	PUNCT	PUNCT	_	1	punct	_	_
+3	wetsa	_	ADJ	ADJ	_	4	amod	_	_
+4	yapa	_	NOUN	NOUN	_	6	nmod	_	_
+5	n	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	janebo	_	NOUN	NOUN	_	1	obj	_	_
+7	ribi	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+8	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	Jain	_	ADV	ADV	_	4	advmod	_	_
+2	ea	_	PRON	PRON	_	4	obj	_	_
+3	a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	manatiwe	_	VERB	VERB	_	0	root	_	_
+
+1	Katikin	_	VERB	VERB	_	5	advcl	_	_
+2	bi	_	PART	CLPL	Clitic=Lfcl	1	Lfcl	_	_
+3	ja	_	DET	DET	_	4	det	_	_
+4	jonin	_	NOUN	NOUN	_	0	root	_	_
+5	shinantia	_	VERB	VERB	_	4	nsubj	_	_
+6	iki	_	AUX	AUX	_	5	aux	_	_
+7	:	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	mia	_	PRON	PRON	_	3	nsubj	_	_
+2	a	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	áxeatia	_	VERB	VERB	_	0	root	_	_
+4	riki	_	AUX	AUX	_	3	aux	_	_
+
+1	Nato	_	ADJ	ADJ	_	2	amod	_	_
+2	escuela	_	NOUN	NOUN	_	6	obl	_	_
+3	nkoxon	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	noa	_	PRON	PRON	_	6	nsubj	_	_
+5	n	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	onantiai	_	VERB	VERB	_	0	root	_	_
+7	,	_	PUNCT	PUNCT	_	6	punct	_	_
+8	jakon	_	ADJ	ADJ	_	9	amod	_	_
+9	bake	_	NOUN	NOUN	_	6	advcl	_	_
+10	ikinoxon	_	VERB	VERB	_	9	cop	_	_
+11	,	_	PUNCT	PUNCT	_	15	punct	_	_
+12	noa	_	PRON	PRON	_	14	nmod	_	_
+13	n	_	PART	CLNOM	Clitic=Nomcl	12	case	_	_
+14	nete	_	NOUN	NOUN	_	15	obj	_	_
+15	cuidantinoxon	_	VERB	VERB	_	9	conj	_	_
+16	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2	noa	_	PRON	PRON	_	6	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	ki	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+5	miaa	_	PRON	PRON	_	6	obj	_	_
+6	onántia	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	¡	_	PUNCT	PUNCT	_	4	punct	_	_
+2	ea	_	PRON	PRON	_	4	obj	_	_
+3	a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	akintiwe	_	VERB	VERB	_	0	root	_	_
+5	!	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	icha	_	ADV	ADV	_	5	advmod	_	_
+2	yora	_	PART	CLPL	Clitic=Lfcl	1	Lfcl	_	_
+3	mia	_	PRON	PRON	_	5	nsubj	_	_
+4	n	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	xeatia	_	VERB	VERB	_	0	root	_	_
+6	riki	_	AUX	AUX	_	5	aux	_	_
+
+1	Nete	_	NOUN	NOUN	_	2	compound	_	_
+2	tsisenen	_	NOUN	NOUN	_	12	nsubj	_	_
+3	ain	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	bi	_	PART	CLPL	Clitic=Lfcl	2	Lfcl	_	_
+5	,	_	PUNCT	PUNCT	_	8	punct	_	_
+6	jainoax	_	CCONJ	CONJ	_	8	cc	_	_
+7	nete	_	NOUN	NOUN	_	8	compound	_	_
+8	resenenaain	_	NOUN	NOUN	_	2	conj	_	_
+9	ribi	_	PART	CLPL	Clitic=Lfcl	8	Lfcl	_	_
+10	,	_	PUNCT	PUNCT	_	8	punct	_	_
+11	jain	_	ADV	ADV	_	12	advmod	_	_
+12	riki	_	VERB	VERB	_	0	root	_	_
+13	Antártica	_	PROPN	PROPN	_	14	compound	_	_
+14	maibo	_	NOUN	NOUN	_	11	appos	_	_
+15	.	_	PUNCT	PUNCT	_	12	punct	_	_
+
+1	mai	_	NOUN	NOUN	_	5	nsubj	_	_
+2	ra	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+3	netetiibi	_	NOUN	NOUN	_	5	obl	_	_
+4	westíora	_	NUM	NUM	_	3	nummod	_	_
+5	mayátiai	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	2	punct	_	_
+2	Mato	_	PRON	PRON	_	0	root	_	_
+3	canadiensebo	_	NOUN	NOUN	_	2	nsubj	_	_
+4	iki	_	VERB	VERB	_	2	cop	_	_
+5	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Jaskáaxon	_	CCONJ	CONJ	_	8	cc	_	_
+2	mia	_	PRON	PRON	_	6	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	ja	_	PRON	PRON	_	8	obl	_	_
+5	a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	atia	_	VERB	VERB	_	4	amod	_	_
+7	naman	_	ADP	POSTP	AdpType=Post	4	case	_	_
+8	wíshatiwe	_	VERB	VERB	_	0	root	_	_
+9	jawen	_	DET	DET	_	10	det	_	_
+10	jane	_	NOUN	NOUN	_	8	obj	_	_
+11	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	2	punct	_	_
+2	mia	_	PRON	PRON	_	0	root	_	_
+3	a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	jishtentia	_	VERB	VERB	_	2	nsubj	_	_
+5	iki	_	VERB	VERB	_	2	cop	_	_
+6	?	_	PUNCT	PUNCT	_	2	punct	_	_
+
+1	Ecuador	_	PROPN	PROPN	_	0	root	_	_
+2	,	_	PUNCT	PUNCT	_	3	punct	_	_
+3	Colombia	_	PROPN	PROPN	_	1	conj	_	_
+4	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	jawe	_	PRON	PINT	PronType=Int	5	nsubj	_	_
+3	pari	_	PART	CLPL	Clitic=Lfcl	2	Lfcl	_	_
+4	ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+5	pikotiai	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	Nokon	_	DET	DET	_	2	det	_	_
+2	mentsis	_	NOUN	NOUN	_	10	obj	_	_
+3	keras	_	ADJ	ADJ	_	2	amod	_	_
+4	ikiketian	_	VERB	VERB	_	10	advcl	_	_
+5	nokon	_	DET	DET	_	6	det	_	_
+6	borosiko	_	NOUN	NOUN	_	10	obl	_	_
+7	meran	_	ADP	POSTP	AdpType=Post	6	case	_	_
+8	ea	_	PRON	PRON	_	10	nsubj	_	_
+9	n	_	PART	CLNOM	Clitic=Nomcl	8	case	_	_
+10	níatia	_	VERB	VERB	_	0	root	_	_
+11	iki	_	AUX	AUX	_	10	aux	_	_
+12	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	8	punct	_	_
+2	ainbo	_	NOUN	NOUN	_	8	nsubj	_	_
+3	n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	ki	_	PART	CL2P	Clitic=Spcl	8	aux:val	_	_
+5	jaweraki	_	PRON	PINT	PronType=Int	8	obj	_	_
+6	jawen	_	DET	DET	_	7	det	_	_
+7	bene	_	NOUN	NOUN	_	8	iobj	_	_
+8	atikatiai	_	VERB	VERB	_	0	root	_	_
+9	?	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	Jatíbi	_	ADJ	ADJ	_	3	amod	_	_
+2	baná	_	ADJ	ADJ	_	3	amod	_	_
+3	jawékibo	_	NOUN	NOUN	_	6	nsubj	_	_
+4	iki	_	VERB	VERB	_	6	cop	_	_
+5	xóxotiai	_	VERB	VERB	_	6	amod	_	_
+6	jawékibo	_	NOUN	NOUN	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	mia	_	PRON	PRON	_	3	nsubj	_	_
+2	n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	atiti	_	VERB	VERB	_	0	root	_	_
+4	atipantia	_	AUX	AUX	_	3	aux	_	_
+
+1	jatike	_	VERB	VERB	_	0	root	_	_
+2	manan	_	NOUN	NOUN	_	1	obl	_	_
+3	ani	_	ADJ	ADJ	_	2	amod	_	_
+4	nkobo	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	.	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	ea	_	PRON	PRON	_	5	nsubj	_	_
+2	n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	ra	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+4	mato	_	PRON	PRON	_	5	obj	_	_
+5	ikonatiai	_	VERB	VERB	_	0	root	_	_
+6	ea	_	PRON	PRON	_	1	nsubj	_	_
+7	n	_	PART	CLNOM	Clitic=Nomcl	6	case	_	_
+8	ra	_	PART	CL2P	Clitic=Spcl	1	aux:val	_	_
+9	mia	_	PRON	PRON	_	1	obj	_	_
+10	a	_	PART	CLNOM	Clitic=Nomcl	9	case	_	_
+
+1	bari	_	NOUN	NOUN	_	3	nsubj	_	_
+2	ra	_	PART	CL2P	Clitic=Spcl	3	aux:val	_	_
+3	jakon	_	ADJ	ADJ	_	0	root	_	_
+4	iki	_	VERB	VERB	_	3	cop	_	_
+5	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	¿	_	PUNCT	PUNCT	_	3	punct	_	_
+2	Jawetio	_	ADV	PINT	PronType=Int	3	amod	_	_
+3	ani	_	ADJ	ADJ	_	0	root	_	_
+4	rin	_	PART	CL2P	Clitic=Spcl	3	cop	_	_
+5	isonxoma	_	NOUN	NOUN	_	8	nmod	_	_
+6	n	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+7	jawen	_	DET	DET	_	8	det	_	_
+8	jiwi	_	NOUN	NOUN	_	3	nsubj	_	_
+9	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	Diestro	_	ADJ	ADJ	_	3	nsubj	_	_
+2	riki	_	VERB	VERB	_	3	cop	_	_
+3	eaa	_	PRON	PRON	_	0	root	_	_
+
+1	ea	_	PRON	PRON	_	4	nsubj	_	_
+2	a	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	ribi	_	PART	CLPL	Clitic=Lfcl	1	Lfcl	_	_
+4	teetiai	_	VERB	VERB	_	0	root	_	_
+5	,	_	PUNCT	PUNCT	_	4	punct	_	_
+6	escuela	_	NOUN	NOUN	_	4	obl	_	_
+7	meran	_	ADP	POSTP	AdpType=Post	6	case	_	_
+8	.	_	PUNCT	PUNCT	_	4	punct	_	_
+

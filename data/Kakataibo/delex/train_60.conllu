@@ -1,0 +1,735 @@
+1	VERB	_	VERB	_	_	8	advcl	_	kill-S/A:A:PE=
+2	PART	_	PART	_	_	8	aux:sgen	_	NAR=
+3	PART	_	PART	_	_	8	aux:val	_	
+4	PART	_	PART	_	_	8	nsubj	_	
+5	NOUN	_	NOUN	_	_	8	nsubj	_	woman=
+6	PART	_	PART	_	_	5	case	_	
+7	NOUN	_	NOUN	_	_	8	obj	_	deer:ABS=
+8	VERB	_	VERB	_	_	0	root	_	lay.down-REM.PST-3-PROX=
+9	PUNCT	_	PUNCT	_	_	8	punct	_	_
+
+1	ADV	como diez años	ADV	_	_	2	advmod	2:advmod	like.ten.years=
+2	VERB	aish	VERB	_	_	7	advcl	7:advcl	be:S/A>S=
+3	PART	ka	PART	_	_	7	aux:sgen	7:aux:sgen	NAR=
+4	PART	=na	PART	_	_	7	nsubj	7:nsubj:bound	
+5	PRON	‘ë	PRON	_	_	7	nsubj	7:nsubj:free	1SG=
+6	PART	x	PART	_	_	5	case	5:case	
+7	VERB	tsót	VERB	_	_	0	root	0:root	live-REM.PST-1/2=
+8	NOUN	Santa Rosa	NOUN	_	_	7	obl	7:obl	Santa.Rosa.village=
+9	ADP	tsipumi	ADP	_	_	8	case	8:case	below=
+10	PUNCT	_	PUNCT	_	_	7	punct	7:punct	_
+
+1	NOUN	kënë	NOUN	_	_	2	nsubj	_	wall:ABS=
+2	VERB	xaibi	VERB	_	_	6	advcl	_	shake-DS/A/P:SE:INTR=
+3	PART	_	PART	_	_	6	aux:sgen	_	NAR=
+4	PART	ka	PART	_	_	6	nsubj	_	
+5	NOUN	xubu	NOUN	_	_	6	nsubj	_	house:ABS=
+6	VERB	nipakët	VERB	_	_	0	root	_	fall.down-IPFV-NON.PROX=
+7	PUNCT	_	PUNCT	_	_	6	punct	_	_
+
+1	PRON	uinbirës	PRON	_	_	7	nsubj	_	anyone:A=
+2	PART	ka	PART	_	_	7	aux:sgen	_	NAR=
+3	PART	a	PART	_	_	7	nsubj	_	
+4	PRON	‘ë	PRON	_	_	6	nmod	_	1=
+5	PART	n	PART	_	_	4	case	_	
+6	NOUN	piti	NOUN	_	_	7	obj	_	food:ABS=
+7	VERB	pi	VERB	_	_	0	root	_	eat-NOMLZ=
+8	AUX	‘ikën	AUX	_	_	7	aux	_	be:3=
+9	PUNCT	_	PUNCT	_	_	7	punct	_	_
+
+1	NOUN	_	NOUN	_	_	9	nsubj	_	man=
+2	PART	_	PART	_	_	1	case	_	
+3	PART	_	PART	_	_	9	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	9	nsubj	_	
+5	NOUN	_	NOUN	_	_	9	obl	_	river=
+6	PART	_	PART	_	_	5	case	_	
+7	PART	_	PART	_	_	1	case	_	
+8	NOUN	_	NOUN	_	_	9	obj	_	deer:ABS=
+9	VERB	_	VERB	_	_	0	root	_	kill-PFV-3-NON.PROX=
+10	PUNCT	_	PUNCT	_	_	9	punct	_	_
+
+1	NOUN	kana	NOUN	_	_	2	nmod	_	macaw=
+2	NOUN	rani	NOUN	_	_	10	obj	_	feather:ABS=
+3	NOUN	xon	NOUN	_	_	4	nmod	_	red.macaw=
+4	NOUN	rani	NOUN	_	_	10	obj	_	feather:ABS=
+5	PART	ka	PART	_	_	10	aux:sgen	_	NAR=
+6	PART	nanuna	PART	_	_	10	nsubj	_	
+7	PRON	ain	PRON	_	_	8	nmod	_	3SG:GEN=
+8	NOUN	tsipun	NOUN	_	_	10	obl	_	end=
+9	PART	nu	PART	_	_	8	case	_	LOC=
+10	VERB	bëtanit	VERB	_	_	0	root	_	tie-IPFV-1/2=
+11	PUNCT	_	PUNCT	_	_	10	punct	_	_
+
+1	PRON	‘ë	PRON	_	_	7	nsubj	_	1SG=
+2	PART	x	PART	_	_	1	case	_	
+3	PART	ka	PART	_	_	7	aux:sgen	_	NAR=
+4	PART	na	PART	_	_	7	nsubj	_	
+5	NOUN	kini	NOUN	_	_	7	obl	_	hole=
+6	PART	nu	PART	_	_	5	case	_	
+7	VERB	atsin	VERB	_	_	0	root	_	hand-enter-REFL-IPFV-1/2=
+8	PUNCT	_	PUNCT	_	_	7	punct	_	_
+
+1	PART	_	PART	_	_	4	aux:sgen	_	NAR=
+2	PART	_	PART	_	_	4	nsubj	_	
+3	NOUN	_	NOUN	_	_	4	obj	_	tapir:ABS=
+4	VERB	_	VERB	_	_	0	root	_	kill-PST.yesterday-3-NON.PROX=
+5	PUNCT	_	PUNCT	_	_	4	punct	_	_
+
+1	VERB	_	VERB	_	_	3	advcl	_	sell-S>A:SE=
+2	ADJ	_	ADJ	_	_	3	nsubj	_	non.indigenous-ERG=
+3	VERB	_	VERB	_	_	0	root	_	take-REM.PAS-3-NON.PROX=
+4	PUNCT	_	PUNCT	_	_	3	punct	_	_
+
+1	PRON	mi	PRON	_	_	3	nmod	_	2SG=
+2	PART	n	PART	_	_	1	case	_	
+3	NOUN	naë	NOUN	_	_	6	nsubj	_	garden:ABS=
+4	PART	_	PART	_	_	6	aux:sgen	_	NAR=
+5	PART	ka	PART	_	_	6	nsubj	_	
+6	VERB	matat	VERB	_	_	0	root	_	become.hill-IPFV-PROX=
+7	PUNCT	_	PUNCT	_	_	6	punct	_	_
+
+1	ADJ	_	ADJ	_	_	2	amod	_	big=
+2	NOUN	_	NOUN	_	_	5	obj	_	path:ABS=
+3	PART	_	PART	_	_	5	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	5	nsubj	_	
+5	VERB	_	VERB	_	_	0	root	_	do-REM.PST-3=
+6	ADP	_	ADP	_	_	7	case	_	from=
+7	PROPN	_	PROPN	_	_	8	compound	_	Tingo=
+8	PROPN	_	PROPN	_	_	5	obl	_	María=
+9	ADV	_	ADV	_	_	5	advmod	_	there-PA.A=
+10	ADP	_	ADP	_	_	11	case	_	until=
+11	PROPN	_	PROPN	_	_	5	obl	_	Pucallpa=
+12	PART	_	PART	_	_	11	case	_	
+13	PUNCT	_	PUNCT	_	_	5	punct	_	_
+
+1	DET	_	DET	_	_	2	nmod	2:nmod	1PL.GEN=
+2	NOUN	_	NOUN	_	_	4	nmod	4:nmod	father=
+3	PART	_	PART	_	_	2	case	2:case	
+4	NOUN	_	NOUN	_	_	7	nsubj	7:nsubj	tale:ABS=
+5	PART	_	PART	_	_	4	advmod	4:advmod	
+6	VERB	_	VERB	_	_	7	advcl	7:advcl	do-S/A>S:SE=
+7	VERB	_	VERB	_	_	12	parataxis	12:parataxis	live-IPFV-1/2=
+8	PRON	_	PRON	_	_	12	obj	12:obj	that=
+9	PART	_	PART	_	_	8	advmod	8:advmod	
+10	PART	_	PART	_	_	12	aux:sgen	12:aux:sgen	NAR=
+11	PART	_	PART	_	_	12	nsubj	12:nsubj	
+12	VERB	_	VERB	_	_	0	root	0:root	say-IPFV-1/2=
+13	PUNCT	_	PUNCT	_	_	12	punct	12:punct	_
+
+1	NOUN	_	NOUN	_	_	9	nsubj	_	Emilio:ABS=
+2	PART	_	PART	_	_	9	aux:sgen	_	NAR=
+3	PART	_	PART	_	_	9	nsubj	_	
+4	ADV	_	ADV	_	_	6	advmod	_	more=
+5	ADJ	_	ADJ	_	_	9	cop	_	fat=
+6	CCONJ	_	CCONJ	_	_	7	case	_	than=
+7	NOUN	_	NOUN	_	_	9	obl	_	Roberto=
+8	PART	_	PART	_	_	9	advmod	_	
+9	VERB	_	VERB	_	_	0	root	_	be:3=
+10	PUNCT	_	PUNCT	_	_	9	punct	_	_
+
+1	PROPN	_	PROPN	_	_	7	nsubj	_	Roberto:ABS=
+2	PART	_	PART	_	_	7	aux:sgen	_	NAR=
+3	PART	_	PART	_	_	7	nsubj	_	
+4	NOUN	_	NOUN	_	_	7	obl	_	hand=
+5	PART	_	PART	_	_	4	case	_	
+6	NOUN	_	NOUN	_	_	7	nmod	_	hand-white=
+7	VERB	_	VERB	_	_	0	root	_	be:3=
+8	PUNCT	_	PUNCT	_	_	7	punct	_	_
+
+1	ADV	_	ADV	_	_	5	advmod	_	slowly=
+2	PART	_	PART	_	_	1	advmod	_	
+3	PART	_	PART	_	_	5	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	5	nsubj	_	
+5	VERB	_	VERB	_	_	0	root	_	eat-NOMLZ=
+6	AUX	_	AUX	_	_	5	aux	_	be:1/2=
+7	PUNCT	_	PUNCT	_	_	6	punct	_	_
+
+1	PRON	_	PRON	_	_	7	nmod	_	1SG=
+2	PART	_	PART	_	_	1	case	_	
+3	PART	_	PART	_	_	7	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	7	nsubj	_	
+5	DET	_	DET	_	_	7	nsubj	_	that=
+6	NOUN	_	NOUN	_	_	7	nsubj	_	tale:ABS=
+7	VERB	_	VERB	_	_	0	root	_	tell-NOMLZ=
+8	AUX	_	AUX	_	_	7	aux:sgen	_	be:1/2=
+9	PUNCT	_	PUNCT	_	_	7	punct	_	_
+
+1	NOUN	_	NOUN	_	_	6	nsubj	_	Juan=
+2	PART	_	PART	_	_	6	aux:sgen	_	NAR=
+3	PART	_	PART	_	_	6	nsubj	_	3=
+4	NOUN	_	NOUN	_	_	6	nmod	_	spider.monkey=
+5	PART	_	PART	_	_	4	case	_	COMP=
+6	VERB	_	VERB	_	_	0	root	_	be:3=
+7	PUNCT	_	PUNCT	_	_	6	punct	_	_
+
+1	ADV	_	ADV	_	_	6	advmod	_	here=
+2	ADV	_	ADV	_	_	6	nummod	_	one=
+3	ADJ	_	ADJ	_	_	6	amod	_	old=
+4	AUX	_	AUX	_	_	6	nmod	_	1PL=
+5	PART	_	PART	_	_	4	case	_	
+6	NOUN	_	NOUN	_	_	7	nsubj	_	ancestor:ABS=
+7	NOUN	_	NOUN	_	_	10	ccomp	_	be-NOMLZ=
+8	PART	_	PART	_	_	10	aux:sgen	_	NAR=
+9	AUX	_	AUX	_	_	10	nsubj	_	
+10	VERB	_	VERB	_	_	0	root	_	tell-DES-IPFV-1/2=
+11	PUNCT	_	PUNCT	_	_	10	punct	_	_
+
+1	PRON	_	PRON	_	_	4	nsubj	_	1SG:P=
+2	PART	_	PART	_	_	4	aux:sgen	_	NAR=
+3	NOUN	_	NOUN	_	_	4	obl	_	manioc:ABS=
+4	VERB	_	VERB	_	_	0	root	_	give:IMP=
+5	PUNCT	_	PUNCT	_	_	4	punct	_	_
+
+1	NOUN	_	NOUN	_	_	2	nsubj	_	blind-DIM:ABS=
+2	VERB	_	VERB	_	_	14	advcl	_	be-NOMLZ=
+3	PART	_	PART	_	_	2	advmod	_	
+4	PART	_	PART	_	_	14	aux:sgen	_	NAR=
+5	PART	_	PART	_	_	14	aux:val	_	
+6	PART	_	PART	_	_	14	nsubj	_	
+7	NOUN	_	NOUN	_	_	14	nsubj	_	woman=
+8	PART	_	PART	_	_	7	case	_	
+9	AUX	_	AUX	_	_	10	nmod	_	3SG:GEN=
+10	NOUN	_	NOUN	_	_	13	obj	_	husband:ABS=
+11	VERB	_	VERB	_	_	13	obl	_	do-NOMLZ=
+12	PART	_	PART	_	_	11	case	_	
+13	ADV	_	ADV	_	_	14	advcl	_	
+14	VERB	_	VERB	_	_	0	root	_	mistreat-NOMLZ=
+15	PART	_	PART	_	_	14	advmod	_	
+16	VERB	_	VERB	_	_	14	aux	_	be:3=
+17	PUNCT	_	PUNCT	_	_	14	punct	_	_
+
+1	PROPN	_	PROPN	_	_	9	nsubj	_	Ochapa=
+2	PROPN	_	PROPN	_	_	1	flat	_	Ispon=
+3	PRON	_	PRON	_	_	2	appos	_	3SG=
+4	PART	_	PART	_	_	3	case	_	
+5	PART	_	PART	_	_	9	aux:sgen	_	NAR=
+6	PART	_	PART	_	_	9	nsubj	_	
+7	PRON	_	PRON	_	_	8	nmod	_	1PL.GEN=
+8	NOUN	_	NOUN	_	_	9	nmod	_	father=
+9	VERB	_	VERB	_	_	0	root	_	be-REM-PST-3-NON.PROX=
+10	PUNCT	_	PUNCT	_	_	9	punct	_	_
+
+1	NOUN	xanu	NOUN	_	_	5	advcl	_	woman=
+2	PART	_	PART	_	_	5	aux:sgen	_	NAR=
+3	PART	_	PART	_	_	5	nsubj	_	
+4	NOUN	‘atapa	NOUN	_	_	5	obj	_	chicken:ABS=
+5	VERB	‘a	VERB	_	_	0	root	_	kill-PFV-3-NON.PROX=
+6	PUNCT	_	PUNCT	_	_	5	punct	_	_
+
+1	CCONJ	_	CCONJ	_	_	8	conj	8:conj	and=
+2	SCONJ	_	SCONJ	_	_	3	det	3:det	that=
+3	NOUN	_	NOUN	_	_	8	nsubj	_	relative:ABS=
+4	PART	_	PART	_	_	3	advmod	3:advmod	
+5	NOUN	_	NOUN	_	_	3	advmod	3:advmod	escape-NOMLZ=
+6	PART	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR=
+7	PART	_	PART	_	_	8	nsubj	8:nsubj	
+8	VERB	_	VERB	_	_	0	root	0:root	be:3=
+9	NOUN	_	NOUN	_	_	8	advmod	8:advmod	other=
+10	PROPN	_	PROPN	_	_	11	nmod	11:nmod	Palcaso river=
+11	ADP	_	ADP	_	_	8	advmod	8:advmod	beyond=
+12	PUNCT	_	PUNCT	_	_	8	punct	8:punct	_
+
+1	PRON	‘ë	PRON	_	_	7	nsubj	_	1SG=
+2	PART	n	PART	_	_	1	case	_	
+3	PART	ka	PART	_	_	7	aux:sgen	_	NAR=
+4	PART	na	PART	_	_	7	nsubj	_	
+5	NOUN	_	NOUN	_	_	7	iobj	_	María:ABS=
+6	NOUN	_	NOUN	_	_	7	obj	_	manioc:ABS=
+7	VERB	_	VERB	_	_	0	root	_	give-IPFV-1/2=
+8	PUNCT	_	PUNCT	_	_	7	punct	_	_
+
+1	NOUN	_	NOUN	_	_	6	obl	_	boss=
+2	PART	_	PART	_	_	1	case	_	
+3	PART	_	PART	_	_	6	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	6	nsubj	_	
+5	NOUN	_	NOUN	_	_	6	obj	_	rubber.latex=
+6	VERB	_	VERB	_	_	0	root	_	do-REM.PST-3-PROX=
+7	PUNCT	_	PUNCT	_	_	6	punct	_	_
+
+1	ADV	_	ADV	_	_	4	advmod	_	heroes=
+2	PART	_	PART	_	_	4	aux	_	NAR=
+3	PART	_	PART	_	_	4	nsubj	_	
+4	VERB	_	VERB	_	_	0	root	_	be-REM.PST-3-NON.PROX=
+5	SCONJ	_	SCONJ	_	_	6	det	_	that=
+6	NOUN	_	NOUN	_	_	4	nsubj	_	person=
+7	PART	_	PART	_	_	6	nmod	_	
+8	PRON	_	PRON	_	_	10	nmod	_	1SG=
+9	PART	_	PART	_	_	8	case	_	
+10	NOUN	_	NOUN	_	_	6	appos	_	ancestor=
+11	PUNCT	_	PUNCT	_	_	4	punct	_	_
+
+1	NOUN	_	NOUN	_	_	6	nsubj	6:nsubj:free	drink-NOMLZ=
+2	DET	_	DET	_	_	1	det	1:det	that=
+3	PART	_	PART	_	_	1	case	1:case	
+4	PART	_	PART	_	_	6	aux:sgen	6:aux:sgen	NAR=
+5	PART	_	PART	_	_	6	nsubj	6:nsubj	
+6	VERB	_	VERB	_	_	0	root	0:root	be:3=
+7	PROPN	_	PROPN	_	_	8	nmod	8:nmod	Shipibo=
+8	NOUN	_	NOUN	_	_	6	nmod	6:nmod	word:ABS=
+9	PUNCT	_	PUNCT	_	_	6	punct	6:punct	_
+
+1	PRON	_	PRON	_	_	8	nmod	_	1SG=
+2	PART	_	PART	_	_	1	case	_	
+3	PART	_	PART	_	_	8	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	8	nsubj	_	
+5	DET	_	DET	_	_	7	nsubj	_	that=
+6	NOUN	_	NOUN	_	_	7	nsubj	_	tale:ABS=
+7	VERB	_	VERB	_	_	0	root	_	tell-NOMLZ=
+8	ADV	_	ADV	_	_	7	advcl	_	want-IPFV=
+9	PART	_	PART	_	_	8	advmod	_	
+10	PUNCT	_	PUNCT	_	_	7	punct	_	_
+
+1	ADV	anu	ADV	_	_	11	advmod	_	there-S/A>A:SE=
+2	PRON	nukën	PRON	_	_	3	nmod	_	1PL.GEN=
+3	NOUN	bakë	NOUN	_	_	11	obj	_	son:ABS=
+4	NOUN	bëchikë	NOUN	_	_	3	compound	_	son:ABS=
+5	PRON	nukën	PRON	_	_	6	nmod	_	1PL.GEN=
+6	NOUN	ini	NOUN	_	_	11	obj	_	daughter:ABS=
+7	NOUN	bëchikë	NOUN	_	_	6	compound	_	daughter:ABS=
+8	NOUN	'ó	NOUN	_	_	10	obj	_	tapir-GENE:ABS=
+9	NOUN	chuna	NOUN	_	_	10	obj	_	monkey.species-GENE:ABS=
+10	VERB	pi	VERB	_	_	11	advcl	_	eat-S/A>A:PE=
+11	VERB	kaniot	VERB	_	_	0	root	_	raise-IPFV-1/2=
+12	PUNCT	_	PUNCT	_	_	11	punct	_	_
+
+1	NOUN	Emilio	NOUN	_	_	4	nsubj	_	Emilio=
+2	PART	n	PART	_	_	1	case	_	
+3	NOUN	kënë	NOUN	_	_	4	obj	_	wall:ABS=
+4	VERB	xaika	VERB	_	_	8	advcl	_	shake:TRAN-P>S:PE:TRAN=
+5	PART	_	PART	_	_	8	aux:sgen	_	NAR=
+6	PART	ka	PART	_	_	8	nsubj	_	
+7	NOUN	xubu	NOUN	_	_	8	nsubj	_	house:ABS=
+8	VERB	nipakët	VERB	_	_	0	root	_	fall.down-IPFV-3-NON.PROX=
+9	PUNCT	_	PUNCT	_	_	8	punct	_	_
+
+1	CCONJ	_	CCONJ	_	_	11	advcl	_	but:DS/A/P=
+2	PART	_	PART	_	_	11	aux:sgen	_	NAR=
+3	PART	_	PART	_	_	11	nsubj	_	
+4	ADJ	_	ADJ	_	_	5	amod	_	young=
+5	NOUN	_	NOUN	_	_	11	nsubj	_	person=
+6	PART	_	PART	_	_	5	case	_	
+7	NOUN	_	NOUN	_	_	8	nmod	_	arrow:ABS=
+8	NOUN	_	NOUN	_	_	11	obj	_	grab-NOMLZ=
+9	NOUN	_	NOUN	_	_	10	nmod	_	bow=
+10	NOUN	_	NOUN	_	_	8	appos	_	hold-NOMLZ=
+11	VERB	_	VERB	_	_	0	root	_	feel.embarrased-IPFV-NON.PROX=
+12	PUNCT	_	PUNCT	_	_	11	punct	_	_
+
+1	DET	a	DET	_	_	2	det	_	that=
+2	NOUN	uni	NOUN	_	_	9	nsubj	_	man=
+3	PART	n	PART	_	_	2	case	_	
+4	PART	ka	PART	_	_	9	aux:sgen	_	NAR=
+5	PART	a	PART	_	_	9	nsubj	_	
+6	ADV	uri	ADV	_	_	9	advmod	_	far=
+7	NUM	achushi	NUM	_	_	8	nummod	_	one=
+8	NOUN	xaë	NOUN	_	_	9	obj	_	turtle:ABS=
+9	VERB	mëra	VERB	_	_	0	root	_	find-PFV-3-NON.PROX=
+10	PUNCT	_	PUNCT	_	_	9	punct	_	_
+
+1	ADJ	_	ADJ	_	_	3	advcl	_	good-FACT-S/A>A:SE=
+2	NOUN	_	NOUN	_	_	3	advcl	_	love-S/A>A:SE=
+3	VERB	_	VERB	_	_	0	root	_	walk-APPL-HAB:REM.PST:3=
+4	PUNCT	_	PUNCT	_	_	3	punct	_	_
+
+1	ADJ	_	ADJ	_	_	2	amod	_	beautiful=
+2	NOUN	_	NOUN	_	_	5	obj	_	thing:ABS=
+3	PART	_	PART	_	_	5	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	5	nsubj	_	
+5	VERB	_	VERB	_	_	0	root	_	want-1PFV-1/2=
+6	PUNCT	_	PUNCT	_	_	5	punct	_	_
+
+1	PRON	_	PRON	_	_	5	nsubj	5:nsubj:free	2SG=
+2	PART	_	PART	_	_	1	case	1:case	
+3	PART	_	PART	_	_	5	aux:sgen	5:aux:sgen	NAR=
+4	PART	_	PART	_	_	5	nsubj	5:nsubj:bound	
+5	VERB	_	VERB	_	_	0	root	0:root	beat.up-REF-PFV-1/2=
+
+1	VERB	_	VERB	_	_	8	advcl	8:advcl	do-S/A>A:PE=
+2	PART	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR=
+3	PART	_	PART	_	_	8	nsubj	8:nsubj:bound	
+4	DET	_	DET	_	_	5	nummod	5:nummod	a.lot=
+5	NOUN	_	NOUN	_	_	8	obj	8:obj	banana.sp:ABS=
+6	DET	_	DET	_	_	7	nummod	7:nummod	a.lot=
+7	NOUN	_	NOUN	_	_	5	appos	5:appos	banana.sp:ABS=
+8	VERB	_	VERB	_	_	0	root	0:root	do-NOMLZ=
+9	AUX	_	AUX	_	_	8	aux	8:aux	be:1/2=
+10	PUNCT	_	PUNCT	_	_	8	punct	8:punct	_
+
+1	ADV	Ë	ADV	_	_	8	obl	_	here=
+2	PART	nu	PART	_	_	1	case	_	
+3	NUM	achushi	NUM	_	_	7	nummod	_	one=
+4	ADJ	bëráma	ADJ	_	_	7	amod	_	old=
+5	PRON	nu	PRON	_	_	7	amod	_	1pl=
+6	PART	n	PART	_	_	5	case	_	
+7	NOUN	‘anibu	NOUN	_	_	8	nsubj	_	ancestor:abs=
+8	NOUN	'i	NOUN	_	_	11	ccomp	_	be-NOMLZ=
+9	PART	ka	PART	_	_	11	aux:sgen	_	narrative=
+10	PART	na	PART	_	_	11	nsubj	_	
+11	VERB	ñui	VERB	_	_	0	root	_	tell-DES-IPFV-1/2=
+12	PUNCT	_	PUNCT	_	_	11	punct	_	_
+
+1	ADJ	achushi	ADJ	_	_	2	nummod	_	one=
+2	NOUN	kini	NOUN	_	_	0	root	_	hole=
+3	PART	ñu	PART	_	_	2	case	_	
+4	PART	_	PART	_	_	10	aux:sgen	_	NAR=
+5	PART	ka	PART	_	_	10	nsubj	_	
+6	PRON	mi	PRON	_	_	8	nmod	_	2SG=
+7	PART	n	PART	_	_	6	case	_	
+8	NOUN	_	NOUN	_	_	9	amod	_	_
+9	NOUN	xo vrabé̈okë	NOUN	_	_	2	nsubj	_	pants=
+10	VERB	‘i	VERB	_	_	2	cop	_	be:3=
+11	PUNCT	_	PUNCT	_	_	10	punct	_	_
+
+1	PART	_	PART	_	_	3	compound	_	fish.sp=
+2	PART	_	PART	_	_	3	compound	_	fish.sp=
+3	NOUN	_	NOUN	_	_	7	nsubj	_	fish.sp=
+4	PART	_	PART	_	_	7	aux:sgen	_	NAR=
+5	PART	_	PART	_	_	7	nsubj	_	
+6	ADJ	_	ADJ	_	_	7	amod	_	bad=
+7	VERB	_	VERB	_	_	0	root	_	be:3=
+8	PUNCT	_	PUNCT	_	_	7	punct	_	_
+
+1	PRON	‘Ë	PRON	_	_	3	nmod	_	1SG=
+2	PART	n	PART	_	_	1	case	_	
+3	NOUN	xubu	NOUN	_	_	5	nsubj	_	house:ABS=
+4	ADJ	‘aisama	ADJ	_	_	5	amod	_	bad=
+5	VERB	‘i	VERB	_	_	12	advcl	_	be-DS/A/P:SE:TRAN=
+6	PART	ka	PART	_	_	12	aux:sgen	_	NAR=
+7	PART	na	PART	_	_	12	nsubj	_	
+8	ADJ	bëtsi	ADJ	_	_	9	amod	_	other=
+9	NOUN	xubu	NOUN	_	_	12	obj	_	house:ABS=
+10	PRON	‘ë	PRON	_	_	12	nsubj	_	1SG=
+11	PART	n	PART	_	_	10	case	_	
+12	VERB	‘a	VERB	_	_	0	root	_	do-REM.PST-1/2=
+13	PUNCT	_	PUNCT	_	_	12	punct	_	_
+
+1	NOUN	_	NOUN	_	_	2	obj	_	clothes=
+2	VERB	_	VERB	_	_	8	advcl	_	buy-S/A:SE=
+3	PART	_	PART	_	_	2	advmod	_	same=
+4	PART	_	PART	_	_	8	aux:sgen	_	NAR=
+5	PART	_	PART	_	_	8	nsubj	_	1SG=
+6	PRON	_	PRON	_	_	8	nsubj	_	1SG=
+7	PART	_	PART	_	_	6	case	_	A=
+8	VERB	_	VERB	_	_	0	root	_	FRUST-TRAN-PFV-1/2=
+9	PUNCT	_	PUNCT	_	_	8	punct	_	_
+
+1	NOUN	_	NOUN	_	_	9	nsubj	9:nsubj:free	1SG=
+2	PART	_	PART	_	_	1	case	1:case	
+3	PART	_	PART	_	_	9	aux:sgen	9:aux:sgen|10:aux	NAR=
+4	PART	_	PART	_	_	9	nsubj	9:nsubj:bound|10:nsubj	
+5	PRON	_	PRON	_	_	8	det	8:det	this=
+6	PART	_	PART	_	_	8	compound	8:compound	fish.sp=
+7	PART	_	PART	_	_	8	compound	8:compound	fish.sp=
+8	NOUN	_	NOUN	_	_	9	obj	9:obj	fish.sp=
+9	VERB	_	VERB	_	_	0	root	0:root	bring-PFV-1/2=
+10	PUNCT	_	PUNCT	_	_	9	punct	9:punct	_
+
+1	NOUN	_	NOUN	_	_	5	obj	_	houses=
+2	PART	_	PART	_	_	1	nmod	_	
+3	PART	_	PART	_	_	5	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	5	nsubj	_	
+5	VERB	_	VERB	_	_	0	root	_	see-REM.PST-3-NON.PROX=
+6	PUNCT	_	PUNCT	_	_	5	punct	_	_
+
+1	PRON	_	PRON	_	_	7	nsubj	_	1SG=
+2	PART	_	PART	_	_	1	case	_	
+3	PART	_	PART	_	_	7	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	7	nsubj	_	
+5	NOUN	_	NOUN	_	_	7	obl	_	house=
+6	PART	_	PART	_	_	5	case	_	
+7	VERB	_	VERB	_	_	0	root	_	enter-IPFV-1/2=
+8	PUNCT	_	PUNCT	_	_	7	punct	_	_
+
+1	PRON	_	PRON	_	_	3	nmod	3:nmod	1PL=
+2	PART	_	PART	_	_	1	case	1:case	
+3	NOUN	_	NOUN	_	_	6	nmod	6:nmod	word:ABS=
+4	PART	_	PART	_	_	6	aux:sgen	6:aux:sgen	NAR=
+5	PART	_	PART	_	_	6	nsubj	6:nsubj	
+6	VERB	_	VERB	_	_	0	root	0:root	be:3=
+7	NOUN	_	NOUN	_	_	6	nsubj	6:nsubj:free	drink-NOMLZ=
+8	PUNCT	_	PUNCT	_	_	6	punct	6:punct	_
+
+1	NOUN	_	NOUN	_	_	4	obj	_	fish.sp=
+2	PRON	_	PRON	_	_	1	det	_	this:P=
+3	PART	_	PART	_	_	4	aux:sgen	_	NAR=
+4	VERB	_	VERB	_	_	0	root	_	look.after:IMP=
+5	PUNCT	_	PUNCT	_	_	4	punct	_	_
+
+1	ADV	_	ADV	_	_	5	advcl	_	like.this-FACT-S/A>A:SE=
+2	NOUN	_	NOUN	_	_	5	nsubj	_	metal=
+3	ADJ	_	ADJ	_	_	2	nummod	_	many:ABS=
+4	VERB	_	VERB	_	_	2	appos	_	hold-NOMLZ=
+5	VERB	_	VERB	_	_	0	root	_	be-S/A>A:SE=
+6	PART	_	PART	_	_	5	advmod	_	
+7	PART	_	PART	_	_	5	advmod	_	
+8	PUNCT	_	PUNCT	_	_	5	punct	_	_
+
+1	PRON	_	PRON	_	_	7	nsubj	_	3SG=
+2	PART	_	PART	_	_	1	nummod	_	
+3	PART	_	PART	_	_	1	case	_	
+4	PART	_	PART	_	_	7	aux:sgen	_	NAR=
+5	PART	_	PART	_	_	7	nsubj	_	
+6	NOUN	_	NOUN	_	_	7	obj	_	manioc:ABS=
+7	VERB	_	VERB	_	_	0	root	_	eat-PL-IPFV-NON.PROX=
+8	PUNCT	_	PUNCT	_	_	7	punct	_	_
+
+1	NOUN	tanu	NOUN	_	_	2	obj	_	palm.grub:ABS=
+2	VERB	rërëka	VERB	_	_	3	advcl	_	spill-S/A>S:POE=
+3	VERB	tsót-but	VERB	_	_	0	root	_	live-down:INTR-REM.PST-3-NON.PROX=
+4	NOUN	bai	NOUN	_	_	3	obl	_	path=
+5	ADP	'ipasu	ADP	_	_	4	case	_	at.side.of=
+6	PUNCT	_	PUNCT	_	_	3	punct	_	_
+
+1	VERB	_	VERB	_	_	8	advcl	_	cut-when:DS/A/P:INTR=
+2	PART	_	PART	_	_	8	aux:sgen	_	NAR=
+3	PART	_	PART	_	_	8	aux:val	_	
+4	PART	_	PART	_	_	8	nsubj	_	
+5	NOUN	_	NOUN	_	_	8	nsubj	_	person:ABS=
+6	INTJ	_	INTJ	_	_	8	parataxis	_	ëëëëë=
+7	VERB	_	VERB	_	_	8	advcl	_	say:INTR-S/A>S:SE=
+8	VERB	_	VERB	_	_	0	root	_	eyes-touch-REFL-REM.PST-3-PROX=
+9	PUNCT	_	PUNCT	_	_	8	punct	_	_
+
+1	DET	_	DET	_	_	4	case	4:case	a.lot:ABS=
+2	PART	_	PART	_	_	4	aux:sgen	4:aux:sgen	NAR=
+3	PART	_	PART	_	_	4	nsubj	4:nsubj:bound	
+4	VERB	_	VERB	_	_	0	root	0:root	see-PFV-1/2=
+
+1	PRON	_	PRON	_	_	3	nmod	_	1PL.GEN=
+2	NOUN	_	NOUN	_	_	3	compound	_	tapir=
+3	NOUN	_	NOUN	_	_	4	obj	_	meat=
+4	VERB	_	VERB	_	_	9	csubj	_	eat-NOMLZ=
+5	PRON	_	PRON	_	_	4	appos	_	3SG=
+6	PART	_	PART	_	_	5	case	_	
+7	PART	_	PART	_	_	9	aux:sgen	_	NAR=
+8	PART	_	PART	_	_	9	nsubj	_	
+9	VERB	_	VERB	_	_	0	root	_	die-PFV-3-NON.PROX=
+10	PUNCT	_	PUNCT	_	_	9	punct	_	_
+
+1	NOUN	Xanu	NOUN	_	_	6	nsubj	_	woman=
+2	PART	=n	PART	_	_	1	case	_	
+3	PART	ka	PART	_	_	6	aux:sgen	_	NAR=
+4	PART	=is	PART	_	_	6	aux:val	_	
+5	PART	=a	PART	_	_	6	nsubj	_	
+6	VERB	buankian	VERB	_	_	0	root	_	bring-HAB.PAST.3=
+7	DET	ain	DET	_	_	8	nmod	_	3SG:GEN=
+8	NOUN	bënë	NOUN	_	_	6	obj	_	husband=
+9	PUNCT	“	PUNCT	_	_	6	punct	_	_
+10	NOUN	unirá	NOUN	_	_	11	nsubj	_	man-DIM:ABS=
+11	PART	ka	PART	_	_	6	parataxis	_	NAR:3=
+12	PUNCT	”	PUNCT	_	_	6	punct	_	_
+13	PUNCT	.	PUNCT	_	_	6	punct	_	_
+
+1	DET	achushi	DET	_	_	3	nummod	_	one=
+2	PART	ishi	PART	_	_	1	advmod	_	
+3	NOUN	ñu	NOUN	_	_	7	obj	_	thing:ABS=
+4	PART	_	PART	_	_	7	aux:sgen	_	NAR=
+5	PART	ka	PART	_	_	7	nsubj	_	
+6	PRON	‘ë	PRON	_	_	7	obj	_	1SG:P=
+7	VERB	'inan	VERB	_	_	0	root	_	give:IMP=
+8	PUNCT	_	PUNCT	_	_	7	punct	_	_
+
+1	PRON	_	PRON	_	_	2	nmod	_	1PL.GEN=
+2	NOUN	_	NOUN	_	_	9	nsubj	_	ancestor=
+3	PART	_	PART	_	_	2	nummod	_	PLU=
+4	PART	_	PART	_	_	9	aux:sgen	_	NAR=
+5	PART	_	PART	_	_	9	aux:val	_	REP=
+6	PART	_	PART	_	_	9	nsubj	_	3=
+7	PROPN	_	PROPN	_	_	9	obl	_	Lima=
+8	PART	_	PART	_	_	7	case	_	LOC=
+9	VERB	_	VERB	_	_	0	root	_	born-REM.PST-3-NON.PROX=
+10	PROPN	_	PROPN	_	_	9	dislocated	_	Norte=
+11	PART	_	PART	_	_	10	case	_	LOC=
+12	PUNCT	_	PUNCT	_	_	9	punct	_	_
+
+1	ADV	imëishi	ADV	_	_	6	advmod	_	tomorrow=
+2	PART	ka	PART	_	_	6	aux:sgen	_	NAR=
+3	PART	na	PART	_	_	6	nsubj	_	
+4	NOUN	Aguaytia	NOUN	_	_	6	obl	_	Aguaytia=
+5	PART	nu	PART	_	_	4	case	_	
+6	VERB	kwanti	VERB	_	_	0	root	_	go-NOMLZ=
+7	AUX	‘i	AUX	_	_	6	aux	_	be:1/2=
+8	PUNCT	_	PUNCT	_	_	6	punct	_	_
+
+1	NOUN	_	NOUN	_	_	3	nsubj	_	María=
+2	PART	_	PART	_	_	1	case	_	
+3	VERB	_	VERB	_	_	7	ccomp	_	cook-NOMLZ=
+4	PART	_	PART	_	_	3	case	_	
+5	PART	_	PART	_	_	7	aux:sgen	_	NAR=
+6	PART	_	PART	_	_	7	nsubj	_	
+7	VERB	_	VERB	_	_	0	root	_	think-PFV-1/2=
+8	PUNCT	_	PUNCT	_	_	7	punct	_	_
+
+1	NOUN	_	NOUN	_	_	6	nsubj	_	Jaguar=
+2	PART	_	PART	_	_	1	case	_	
+3	PART	_	PART	_	_	1	nummod	_	
+4	PART	_	PART	_	_	6	aux:sgen	_	NAR=
+5	PART	_	PART	_	_	6	nsubj	_	
+6	VERB	_	VERB	_	_	0	root	_	do-PFV-3-NON.PROX=
+7	PUNCT	_	PUNCT	_	_	6	punct	_	_
+
+1	PRON	‘ë	PRON	_	_	5	nsubj	_	1SG=
+2	PART	x	PART	_	_	1	case	_	
+3	PART	ka	PART	_	_	5	aux:sgen	_	NAR=
+4	PART	na	PART	_	_	5	nsubj	_	
+5	VERB	rakwët	VERB	_	_	0	root	_	be.affraid.of-IPFV-1/2=
+6	NOUN	‘inu	NOUN	_	_	8	nsubj	_	jaguar=
+7	PART	n	PART	_	_	6	case	_	
+8	NOUN	piti	NOUN	_	_	5	obl	_	eat-NOMLZ=
+9	ADP	rabanan	ADP	_	_	8	case	_	because.of=
+10	PUNCT	_	PUNCT	_	_	8	punct	_	_
+
+1	NOUN	_	NOUN	_	_	6	nsubj	_	Emilio=
+2	PART	_	PART	_	_	1	case	_	
+3	PART	_	PART	_	_	6	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	6	nsubj	_	
+5	NOUN	_	NOUN	_	_	6	obj	_	Wilton:ABS=
+6	VERB	_	VERB	_	_	0	root	_	speak-MAL-BEN-PFV-3-NON.PROX=
+7	PUNCT	_	PUNCT	_	_	6	punct	_	_
+
+1	NOUN	hotel	NOUN	_	_	8	obl	_	hotel=
+2	PART	u(ki)	PART	_	_	1	case	_	
+3	PART	ka	PART	_	_	8	aux:sgen	_	NAR=
+4	PART	a	PART	_	_	8	nsubj	_	
+5	PRON	‘ë	PRON	_	_	7	nmod	_	1sg=
+6	PART	n	PART	_	_	5	case	_	
+7	NOUN	xukën	NOUN	_	_	8	nsubj	_	brother:ABS=
+8	VERB	u	VERB	_	_	0	root	_	come-IPFV-NON.PROX=
+9	PUNCT	_	PUNCT	_	_	8	punct	_	_
+
+1	ADJ	_	ADJ	_	_	2	nmod	2:nmod	man-same.size=
+2	NOUN	_	NOUN	_	_	8	nsubj	8:nsubj:free	spider.monkey=
+3	PRON	_	PRON	_	_	2	det	2:det	3SG=
+4	PART	_	PART	_	_	2	case	2:case	
+5	PART	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR=
+6	PART	_	PART	_	_	8	nsubj	8:nsubj	
+7	PRON	_	PRON	_	_	8	obj	8:obj	1SG:P=
+8	VERB	_	VERB	_	_	0	root	0:root	scare-PFV-3-NON.PROX=
+9	PUNCT	_	PUNCT	_	_	8	punct	8:punct	_
+
+1	PRON	_	PRON	_	_	8	obl	_	that=
+2	PART	_	PART	_	_	1	case	_	
+3	PART	_	PART	_	_	8	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	8	nsubj	_	
+5	PRON	_	PRON	_	_	7	nmod	_	we=
+6	PART	_	PART	_	_	5	case	_	
+7	NOUN	_	NOUN	_	_	8	nsubj	_	land:ABS=
+8	ADJ	_	ADJ	_	_	9	amod	_	small=
+9	VERB	_	VERB	_	_	0	root	_	be:3=
+10	PUNCT	_	PUNCT	_	_	9	punct	_	_
+
+1	VERB	_	VERB	_	_	5	advcl	_	arrive-S/A>P:SE=
+2	PART	_	PART	_	_	5	aux:sgen	_	
+3	PART	_	PART	_	_	5	aux:val	_	
+4	PART	_	PART	_	_	5	nsubj	_	
+5	VERB	_	VERB	_	_	0	root	_	see-REM.PST-3-NON.PROX=
+6	NUM	_	NUM	_	_	7	nummod	_	one=
+7	NOUN	_	NOUN	_	_	5	obj	_	white.person:ABS=
+8	PUNCT	_	PUNCT	_	_	5	punct	_	_
+
+1	PROPN	Roberto=n	PROPN	_	_	8	nsubj	_	Roberto=
+2	PART	n	PART	_	_	1	case	_	
+3	PART	ka	PART	_	_	8	aux:sgen	_	NAR=
+4	PART	a	PART	_	_	8	nsubj	_	
+5	DET	ënë	DET	_	_	7	det	_	this=
+6	NOUN	'o	NOUN	_	_	7	nmod	_	tapir=
+7	NOUN	nami	NOUN	_	_	8	obj	_	meat:ABS=
+8	VERB	pi-pan	VERB	_	_	0	root	_	eat-first-IPFV-NON.PROX=
+9	PUNCT	_	PUNCT	_	_	8	punct	_	_
+
+1	ADV	_	ADV	_	_	11	discourse	11:discourse	then=
+2	ADV	_	ADV	_	_	3	advmod	3:advmod	almost=
+3	DET	_	DET	_	_	4	nummod	4:nummod	every=
+4	NOUN	_	NOUN	_	_	11	advmod	11:advmod	day=
+5	PART	_	PART	_	_	4	case	4:case	
+6	PART	_	PART	_	_	11	aux:sgen	11:aux:sgen	NAR=
+7	PART	_	PART	_	_	11	aux:val	11:aux:ev	
+8	PART	_	PART	_	_	11	nsubj	11:nsubj:bound	
+9	DET	_	DET	_	_	10	det	10:det	that=
+10	NOUN	_	NOUN	_	_	11	nsubj	11:nsubj:free	person:ABS=
+11	VERB	_	VERB	_	_	0	root	0:root	go-REM.PST-3-PROX=
+12	PUNCT	_	PUNCT	_	_	11	punct	11:punct	_
+
+1	PRON	ain	PRON	_	_	2	nmod	_	3sg:GEN=
+2	NOUN	monumento	NOUN	_	_	8	nsubj	_	statue=
+3	PART	sapi	PART	_	_	8	aux:dub	_	DUB=
+4	PART	ka	PART	_	_	8	aux:sgen	_	NAR=
+5	PART	a	PART	_	_	8	nsubj	_	
+6	NOUN	Pucallpa	NOUN	_	_	8	obl	_	Pucallpa=
+7	PART	nu	PART	_	_	6	case	_	
+8	VERB	‘ikën	VERB	_	_	0	root	_	be:3=
+9	PUNCT	_	PUNCT	_	_	8	punct	_	_
+
+1	NOUN	_	NOUN	_	_	7	nsubj	_	Juan:ABS=
+2	PART	_	PART	_	_	7	aux:sgen	_	NAR=
+3	PART	_	PART	_	_	7	nsubj	_	
+4	NOUN	_	NOUN	_	_	7	obl	_	jungle=
+5	PART	_	PART	_	_	4	case	_	
+6	PART	_	PART	_	_	1	case	_	
+7	VERB	_	VERB	_	_	0	root	_	sleep-PFV-3-NON.PROX=
+8	PUNCT	_	PUNCT	_	_	7	punct	_	_
+
+1	PRON	_	PRON	_	_	2	nmod	_	1PL.GEN=
+2	NOUN	_	NOUN	_	_	9	nsubj	_	ancestor=
+3	PART	_	PART	_	_	2	case	_	
+4	PART	_	PART	_	_	9	aux:sgen	_	NAR=
+5	PART	_	PART	_	_	9	aux:val	_	
+6	PART	_	PART	_	_	9	nsubj	_	
+7	NOUN	_	NOUN	_	_	8	nmod	_	tapir=
+8	NOUN	_	NOUN	_	_	9	obl	_	meat:ABS=
+9	VERB	_	VERB	_	_	0	root	_	eat-REM.PST-3-NON.PROX=
+10	PUNCT	_	PUNCT	_	_	9	punct	_	_
+
+1	NOUN	_	NOUN	_	_	12	nsubj	11:nsubj:free	deer=
+2	DET	_	DET	_	_	1	det	1:det	that=
+3	PART	_	PART	_	_	1	case	1:case	
+4	VERB	_	VERB	_	_	12	advcl	_	untie-REFL.passing:INTR-S/A>A:SE=
+5	PART	_	PART	_	_	12	aux:sgen	11:aux:sgen	NAR=
+6	PART	_	PART	_	_	12	aux:val	11:aux:ev	
+7	PART	_	PART	_	_	12	nsubj	11:nsubj:bound	
+8	NOUN	_	NOUN	_	_	12	obj	13:obj	woman=
+9	ADJ	_	ADJ	_	_	8	amod	9:amod	old-DIM:ABS=
+10	NOUN	_	NOUN	_	_	12	nsubj	13:nsubj:free	deer=
+11	PART	_	PART	_	_	10	case	11:case	
+12	VERB	_	VERB	_	_	0	root	0:root	beat.up.with.a.mallet-REM.PST-3-PROX=
+13	PUNCT	_	PUNCT	_	_	12	punct	13:punct	_
+
+1	PRON	_	PRON	_	_	3	nmod	_	1SG=
+2	PART	_	PART	_	_	1	case	_	
+3	NOUN	_	NOUN	_	_	8	obl	_	house=
+4	PART	_	PART	_	_	3	case	_	
+5	PART	_	PART	_	_	8	aux:sgen	_	NAR=
+6	PART	_	PART	_	_	8	nsubj	_	
+7	ADJ	_	ADJ	_	_	8	amod	_	bad=
+8	VERB	_	VERB	_	_	0	root	_	be:1/2=
+9	PUNCT	_	PUNCT	_	_	8	punct	_	_
+
+1	ADV	_	ADV	_	_	5	advcl	5:advcl	be-S/A>A:PE=
+2	PART	_	PART	_	_	5	aux:sgen	5:aux:sgen	NAR=
+3	PART	_	PART	_	_	5	aux:val	5:aux:ev	REP=
+4	PART	_	PART	_	_	5	nsubj	5:nsubj:bound	3=
+5	VERB	_	VERB	_	_	0	root	0:root	say-REM.PST-3-NON.PROX=
+6	AUX	_	AUX	_	_	7	nmod	7:nmod	3SG:GEN=
+7	NOUN	_	NOUN	_	_	5	obj	5:obj	mother=
+8	ADJ	_	ADJ	_	_	7	amod	7:amod	old(FEM)-DIM=
+9	PUNCT	_	PUNCT	_	_	5	punct	5:punct	_
+10	NOUN	_	NOUN	_	_	23	discourse	23:discourse	mother=
+11	PART	_	PART	_	_	10	case	10:case	
+12	PUNCT	_	PUNCT	_	_	5	punct	5:punct	_
+13	DET	_	DET	_	_	16	obj	16:obj	there=
+14	NOUN	_	NOUN	_	_	16	advmod	16:advmod	person=
+15	ADJ	_	ADJ	_	_	14	amod	14:amod	fat:ABS=
+16	VERB	_	VERB	_	_	21	ccomp	21:ccomp	do-NOMLZ=
+17	PRON	_	PRON	_	_	20	nmod	20:nmod	1SG=
+18	PART	_	PART	_	_	17	case	17:case	
+19	NOUN	_	NOUN	_	_	21	obj	21:obj	manioc:ABS=
+20	PART	_	PART	_	_	19	compound	19:compound	manioc:ABS=
+21	VERB	_	VERB	_	_	23	advcl	23:advcl	pick.up-go.to-DS/A/P:SE:DUR=
+22	PART	_	PART	_	_	23	aux:sgen	23:aux:sgen	NAR=
+23	VERB	_	VERB	_	_	5	parataxis	5:parataxis	take.care=
+24	PUNCT	_	PUNCT	_	_	5	punct	5:punct	_
+25	NOUN	_	NOUN	_	_	23	discourse	23:discourse	mother=
+26	PART	_	PART	_	_	25	case	25:case	
+27	PUNCT	_	PUNCT	_	_	5	punct	5:punct	_
+28	PUNCT	_	PUNCT	_	_	5	punct	5:punct	_
+

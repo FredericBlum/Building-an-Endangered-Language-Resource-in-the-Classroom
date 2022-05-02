@@ -1,0 +1,20 @@
+model	run	train	UAS_cbr	LAS_cbr	UAS_shp	LAS_shp
+delex_to_delex	0	shp	60.42	39.32		
+delex_to_lex	0	shp	9.46	3.06		
+delex_to_delex	0	ktb	51.31	28.2	64.92	40.5
+delex_to_lex	0	ktb	32.4	17.69	26.53	10.42
+mono	1	shp	19.92	2.49	86.5	78.53
+mono	2	shp	14.94	2.49	87.73	80.06
+mono	3	shp	19.09	1.24	88.96	81.29
+mono	4	shp	27.8	1.66	87.73	80.67
+mono	5	shp	19.92	2.07	87.73	79.75
+mono	1	cbr	75.62	62.69		
+mono	2	cbr	69.65	56.72		
+mono	3	cbr	73.13	59.7		
+mono	4	cbr	70.15	58.71		
+mono	5	cbr	77.11	64.18		
+mono_full	1	cbr	71.7	66.04		
+mono_full	2	cbr	80.19	69.81		
+mono_full	3	cbr	79.25	67.92		
+mono_full	4	cbr	80.19	66.04		
+mono_full	5	cbr	75.47	66.98		

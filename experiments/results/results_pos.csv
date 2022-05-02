@@ -1,0 +1,27 @@
+Model	embeddings	run	train	ft	shp_acc	shp_f1	cbr_acc	cbr_f1
+pos	multi-ft	1	shp		94.62	87.09	60.51	21.34
+pos	multi-ft	2	shp		92.9	83.95	62.7	21.42
+pos	multi-ft	3	shp		93.12	83.17	59.63	18.87
+pos	multi-ft	4	shp		92.9	83.58	59.81	19.44
+pos	multi-ft	5	shp		93.38	85.34	62.17	24.29
+pos	multi-ft	1	shp	cbr	93.33	86.21	78.76	39.36
+pos	multi-ft	2	shp	cbr	93.33	85.79	78.32	34.79
+pos	multi-ft	3	shp	cbr	93.12	85.74	75.66	31.61
+pos	multi-ft	4	shp	cbr	92.9	85.4	79.2	35.85
+pos	multi-ft	5	shp	cbr	93.55	84.83	72.57	29.01
+pos	multi-ft	1	cbr		33.58	10.6	84.51	47.85
+pos	multi-ft	2	cbr		36.52	10.75	84.07	46.7
+pos	multi-ft	3	cbr		36.48	10.81	85.84	45.35
+pos	multi-ft	4	cbr		34.71	10.6	83.19	44.33
+pos	multi-ft	5	cbr		35.28	10.32	84.96	50.49
+pos	multi	1	ktb					
+pos	multi	2	ktb					
+pos	multi	3	ktb					
+pos	multi	4	ktb					
+pos	multi	5	ktb					
+pos	multi	1	ktb	shp				
+pos	multi	1	ktb	cbr				
+pos	multi	2	ktb	cbr				
+pos	multi	3	ktb	cbr				
+pos	multi	4	ktb	cbr				
+pos	multi	5	ktb	cbr				

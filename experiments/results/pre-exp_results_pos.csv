@@ -1,0 +1,37 @@
+Model	embeddings	run	mod	train	ft	shp_acc	shp_f1	cbr_acc	cbr_f1
+pos	char	1	none	shp		93.33	77.93	53.96	18.05
+pos	char	2	none	shp		92.9	83.73	53.87	18.21
+pos	char	3	none	shp		93.12	77.67	53.68	17.89
+pos	multi-ft	1	none	shp		93.33	84.46	57.4	22.55
+pos	multi-ft	2	none	shp		93.33	86.21	56.45	23.94
+pos	multi-ft	3	none	shp		93.12	85.31	55.01	19.84
+pos	char + glove	1	none	shp		92.69	83.55	51.38	19.24
+pos	char + glove	2	none	shp		92.26	83.27	48.49	17.61
+pos	char + glove	3	none	shp		92.47	76.68	49.86	19.07
+pos	multi-ft + glove	1	none	shp		92.9	76.74	54.35	19.62
+pos	multi-ft + glove	2	none	shp		93.33	84.38	56.45	21.36
+pos	multi-ft + glove	3	none	shp		92.69	76.54	56.83	20.03
+pos	multi-ft + bert	1	none	shp		93.12	85.31	55.01	19.84
+pos	multi-ft + bert	2	none	shp		91.61	69.25	27.7	0.06
+pos	multi-ft + bert	3	none	shp		90.11	67.72	34.96	7.34
+pos	char	1	none	cbr		41.16	12.12	70.59	51.95
+pos	char	2	none	cbr		38.28	12.03	62.75	44.53
+pos	char	3	none	cbr		41.22	12.65	66.67	43.09
+pos	multi-ft	1	none	cbr		47.48	15.12	81.37	64.32
+pos	multi-ft	2	none	cbr		47.39	15.02	82.35	67.79
+pos	multi-ft	3	none	cbr		46.2	14.49	80.39	64.68
+pos	multi-ft	1	train with dev	cbr		44.78	13.62	83.33	66.23
+pos	multi-ft	2	train with dev	cbr		45.65	14.03	82.35	68.48
+pos	multi-ft	3	train with dev	cbr		44.95	14.14	81.37	58.13
+pos	multi-ft + glove	1	none	cbr		40.01	12.84	81.37	63.13
+pos	multi-ft + glove	2	none	cbr		44.75	13	83.33	68.06
+pos	multi-ft + glove	3	none	cbr		41.35	12.6	79.41	60.06
+pos	multi-ft_ship	1	none	cbr		47.99	15.3	77.45	63.25
+pos	multi-ft_ship	2	none	cbr		49.46	15.67	75.49	58.98
+pos	multi-ft_ship	3	none	cbr		48.95	15.59	83.33	65.99
+pos	multi-ft	1	reduced	cbr		17.77	0.0443	59.89	21.07
+pos	multi-ft	2	reduced	cbr		21.07	5.78	62.09	22.61
+pos	multi-ft	3	reduced	cbr		17.54	5.34	59.89	18.98
+pos	multi-ft	1	train with dev, reduced	cbr		20.07	4.41	58.24	21.84
+pos	multi-ft	2	train with dev, reduced	cbr		20.71	4.52	63.74	25.01
+pos	multi-ft	3	train with dev, reduced	cbr		31.01	8.19	65.38	27.16

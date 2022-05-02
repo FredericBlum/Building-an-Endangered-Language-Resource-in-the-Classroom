@@ -1,0 +1,16 @@
+model	run	note	train	UAS_cbr	LAS_cbr
+dep	1	lstm	cbr	74.13	63.18
+dep	2	lstm	cbr	78.16	67.16
+dep	3	lstm	cbr	76.62	68.16
+dep	4	lstm	cbr	78.61	68.16
+dep	5	lstm	cbr	78.61	65.67
+dep	1	bert + xlm-roberta-large	cbr	80.6	68.16
+dep	2	bert + xlm-roberta-large	cbr	79.6	67.66
+dep	3	bert + xlm-roberta-large	cbr	76.62	64.68
+dep	4	bert + xlm-roberta-large	cbr	80.6	63.68
+dep	5	bert + xlm-roberta-large	cbr	78.11	66.67
+dep	1	bert + bert-multiling	cbr	77.61	65.67
+dep	2	bert + bert-multiling	cbr	77.61	68.66
+dep	3	bert + bert-multiling	cbr	81.09	69.15
+dep	4	bert + bert-multiling	cbr	79.1	68.16
+dep	5	bert + bert-multiling	cbr	81.59	66.67

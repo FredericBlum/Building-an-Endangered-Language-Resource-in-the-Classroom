@@ -1,0 +1,133 @@
+1	VERB	kwain	VERB	_	_	13	advcl	_	move.over-S/A>A:SE=
+2	PART	ishi	PART	_	_	1	advmod	_	
+3	PART	ka	PART	_	_	13	aux:sgen	_	narrative=
+4	PART	is	PART	_	_	13	aux:val	_	
+5	PART	a	PART	_	_	13	nsubj	_	
+6	PRON	ain	PRON	_	_	7	nmod	_	3sg:gen=
+7	NOUN	tita	NOUN	_	_	13	obj	_	mother=
+8	NOUN	ñuxan	NOUN	_	_	7	amod	_	old.woman-DIM:ABS=
+9	PRON	ain	PRON	_	_	10	nmod	_	3sg:gen=
+10	NOUN	maë	NOUN	_	_	11	obj	_	house:abs=
+11	VERB	matsun	VERB	_	_	13	advcl	_	sweep-ITER-passing:TRA-S/A>P:SE=
+12	PART	bi	PART	_	_	11	advmod	_	
+13	VERB	rët	VERB	_	_	0	root	_	beat-REM.PST-3-NON.PROX=
+14	PUNCT	_	PUNCT	_	_	13	punct	_	_
+
+1	ADV	_	ADV	_	_	6	advmod	_	like.that=
+2	PART	_	PART	_	_	6	aux:sgen	_	
+3	PART	_	PART	_	_	6	aux:sgen	_	NAR=
+4	NOUN	_	NOUN	_	_	6	nsubj	_	bird-GENE=
+5	PART	_	PART	_	_	4	case	_	
+6	VERB	_	VERB	_	_	0	root	_	skin-peck-go.to-DS/A/P:SE:DUR=
+7	ADV	_	ADV	_	_	6	advmod	_	get.rotten-IMP:there=
+8	PUNCT	_	PUNCT	_	_	6	punct	_	_
+
+1	PROPN	_	PROPN	_	_	5	nsubj	_	Roberto:ABS=
+2	PART	_	PART	_	_	5	aux:sgen	_	NAR=
+3	PART	_	PART	_	_	5	nsubj	_	
+4	NOUN	_	NOUN	_	_	5	nmod	_	hand-white=
+5	VERB	_	VERB	_	_	0	root	_	be:3=
+6	PUNCT	_	PUNCT	_	_	5	punct	_	_
+
+1	NOUN	parunuti	NOUN	_	_	8	nsubj	_	earring=
+2	DET	a	DET	_	_	1	det	_	that=
+3	PART	x	PART	_	_	1	case	_	
+4	PART	ka	PART	_	_	8	aux:sgen	_	NAR=
+5	PART	a	PART	_	_	8	nsubj	_	
+6	NOUN	pabí	NOUN	_	_	8	obl	_	ear=
+7	PART	nu	PART	_	_	6	case	_	
+8	VERB	bëntan	VERB	_	_	0	root	_	hang-REFL-NOMLZ=
+9	AUX	‘ikën	AUX	_	_	8	aux	_	be:3=
+10	PUNCT	_	PUNCT	_	_	8	punct	_	_
+
+1	NOUN	_	NOUN	_	_	8	nsubj	_	male=
+2	CCONJ	_	CCONJ	_	_	3	cc	_	and=
+3	NOUN	_	NOUN	_	_	1	conj	_	female=
+4	PART	_	PART	_	_	8	aux:sgen	_	NAR=
+5	PART	_	PART	_	_	8	nsubj	_	
+6	PROPN	_	PROPN	_	_	8	obl	_	Lima=
+7	PART	_	PART	_	_	6	case	_	
+8	VERB	_	VERB	_	_	0	root	_	go-PFV-3-NON.PROX=
+9	PUNCT	_	PUNCT	_	_	8	punct	_	_
+
+1	ADJ	_	ADJ	_	_	2	nmod	_	one=
+2	NOUN	_	NOUN	_	_	11	nsubj	_	person=
+3	PART	_	PART	_	_	2	case	_	
+4	PART	_	PART	_	_	11	aux:sgen	_	NAR=
+5	PART	_	PART	_	_	11	aux:val	_	
+6	PART	_	PART	_	_	11	nsubj	_	
+7	ADJ	_	ADJ	_	_	8	nummod	_	all=
+8	NOUN	_	NOUN	_	_	11	obl	_	day=
+9	PART	_	PART	_	_	8	case	_	
+10	NOUN	_	NOUN	_	_	11	obj	_	palm.woman:ABS=
+11	VERB	_	VERB	_	_	0	root	_	bring-REM.PST-3-NON.PROX=
+12	PUNCT	_	PUNCT	_	_	11	punct	_	_
+
+1	VERB	_	VERB	_	_	5	advcl	_	do-S/A>A:SE=
+2	PART	_	PART	_	_	1	advmod	_	
+3	PART	_	PART	_	_	5	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	5	nsubj	_	
+5	VERB	_	VERB	_	_	0	root	_	do-IPFV-1/2=
+6	NOUN	_	NOUN	_	_	5	obl	_	manioc=
+7	PART	_	PART	_	_	6	case	_	
+8	NOUN	_	NOUN	_	_	5	obj	_	corn:ABS=
+9	PUNCT	_	PUNCT	_	_	5	punct	_	_
+
+1	PRON	_	PRON	_	_	2	nmod	_	1PL.GEN=
+2	NOUN	_	NOUN	_	_	6	nsubj	_	ancestor:ABS=
+3	PART	_	PART	_	_	6	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	6	aux:val	_	
+5	PART	_	PART	_	_	6	nsubj	_	
+6	VERB	_	VERB	_	_	0	root	_	live-REM.PST-3-NON.PROX=
+7	NOUN	_	NOUN	_	_	6	obl	_	North=
+8	PART	_	PART	_	_	7	case	_	
+9	PUNCT	_	PUNCT	_	_	6	punct	_	_
+
+1	NOUN	uni	NOUN	_	_	9	nsubj	_	man=
+2	DET	achushi	DET	_	_	1	nmod	_	one=
+3	PART	n	PART	_	_	1	case	_	
+4	PART	pain	PART	_	_	9	advcl	_	
+5	PART	_	PART	_	_	9	aux:sgen	_	NAR=
+6	PART	ka	PART	_	_	9	nsubj	_	
+7	DET	ënë	DET	_	_	8	det	_	this=
+8	NOUN	‘ó	NOUN	_	_	9	obj	_	tapir:ABS=
+9	VERB	‘a	VERB	_	_	0	root	_	kill-PFV-3-NON.PROX=
+10	PUNCT	_	PUNCT	_	_	9	punct	_	_
+
+1	PUNCT	_	PUNCT	_	_	17	punct	_	_
+2	PRON	_	PRON	_	_	3	nmod	_	that:INS=
+3	NOUN	_	NOUN	_	_	12	obj	_	head=
+4	VERB	_	VERB	_	_	17	parataxis	_	rub=
+5	PRON	_	PRON	_	_	3	nmod	_	REFL=
+6	ADV	_	ADV	_	_	4	advcl	_	DS/A:POE=
+7	PART	_	PART	_	_	12	aux:sgen	_	NAR=
+8	PRON	_	PRON	_	_	9	nmod	_	1SG:P=
+9	NOUN	_	NOUN	_	_	12	obj	_	genipap:ABS=
+10	NOUN	_	NOUN	_	_	12	obj	_	other-DIM:ABS=
+11	PRON	_	PRON	_	_	10	nmod	_	1SG:P=
+12	VERB	_	VERB	_	_	17	parataxis	_	throw-down:TRAN-APP:BEN=
+13	PUNCT	_	PUNCT	_	_	17	punct	_	_
+14	PART	_	PART	_	_	17	aux:sgen	_	NAR=
+15	PART	_	PART	_	_	17	aux:val	_	REP=
+16	PART	_	PART	_	_	17	nsubj	_	3=
+17	VERB	_	VERB	_	_	0	root	_	say-REM.PST-3-PROX=
+18	PUNCT	_	PUNCT	_	_	17	punct	_	_
+
+1	PRON	_	PRON	_	_	6	nsubj	_	3SG=
+2	PART	_	PART	_	_	1	nummod	_	
+3	PART	_	PART	_	_	1	case	_	
+4	PART	_	PART	_	_	6	aux:sgen	_	NAR=
+5	PART	_	PART	_	_	6	nsubj	_	
+6	VERB	_	VERB	_	_	0	root	_	sleep-PL-IPFV-NON.PROX=
+7	PUNCT	_	PUNCT	_	_	6	punct	_	_
+
+1	NOUN	_	NOUN	_	_	8	obl	_	hotel=
+2	PART	_	PART	_	_	1	case	_	
+3	PART	_	PART	_	_	8	aux:sgen	_	NAR=
+4	PART	_	PART	_	_	8	nsubj	_	
+5	PRON	_	PRON	_	_	7	nmod	_	1SG=
+6	PART	_	PART	_	_	5	case	_	
+7	NOUN	_	NOUN	_	_	8	nsubj	_	brother:ABS=
+8	VERB	_	VERB	_	_	0	root	_	come-IPFV-NON.PROX=
+9	PUNCT	_	PUNCT	_	_	8	punct	_	_
+

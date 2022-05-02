@@ -1,0 +1,1038 @@
+" B-PUNCT B-PUNCT
+Жоқ B-INTJ B-INTJ
+, B-PUNCT B-PUNCT
+Айгүл B-PROPN B-PROPN
+, B-PUNCT B-PUNCT
+айта B-VERB B-NOUN
+алмаймын B-AUX B-VERB
+" B-PUNCT B-PUNCT
+деп B-VERB B-VERB
+анасы B-NOUN B-NOUN
+жауап B-X B-VERB
+береді B-VERB B-AUX
+. B-PUNCT B-PUNCT
+
+Өмірі B-ADV B-NOUN
+байдан B-NOUN B-VERB
+, B-PUNCT B-PUNCT
+күштіден B-ADJ B-NOUN
+қорлық B-NOUN B-ADJ
+зорлық B-NOUN B-NOUN
+көріп B-VERB B-VERB
+келдім B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+14 B-NUM B-NUM
+ғасырдан B-NOUN B-NOUN
+кейін B-ADP B-ADP
+қолжазба B-NOUN B-NOUN
+көркемдеу B-VERB B-VERB
+, B-PUNCT B-PUNCT
+қабырғаға B-NOUN B-NOUN
+сурет B-NOUN B-NOUN
+салу B-VERB B-VERB
+дамыды B-VERB B-AUX
+. B-PUNCT B-PUNCT
+
+1980 B-NUM B-NUM
+– B-PUNCT B-PUNCT
+1990 B-NUM B-NUM
+ж. B-NOUN B-NOUN
+болған B-AUX B-VERB
+Иран B-PROPN B-PROPN
+— B-PUNCT B-PUNCT
+Ирак B-PROPN B-PROPN
+соғысы B-NOUN B-NOUN
+ел B-NOUN B-NOUN
+экономикасына B-NOUN B-NOUN
+өте B-ADV B-ADJ
+ауыр B-ADJ B-NOUN
+( B-PUNCT B-PUNCT
+700 B-NUM B-NUM
+млрд. B-NOUN B-NOUN
+АҚШ B-PROPN B-PROPN
+долларынан B-NOUN B-NOUN
+астам B-ADP B-NOUN
+) B-PUNCT B-PUNCT
+зардаптар B-NOUN B-NOUN
+әкелді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Қазақстандағы B-PROPN B-PROPN
+ЮНЕСКО B-NOUN B-PROPN
+тұрақты B-ADJ B-NOUN
+даму B-NOUN B-ADJ
+жобасымен B-NOUN B-NOUN
+айналысады B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+1940 B-NUM B-NUM
+жылдан B-NOUN B-NOUN
+Иран B-PROPN B-PROPN
+театры B-NOUN B-NOUN
+дағдарысқа B-NOUN B-NOUN
+ұшырады B-VERB B-VERB
+, B-PUNCT B-PUNCT
+1960 B-NUM B-NUM
+жылдардың B-NOUN B-NOUN
+басында B-NOUN B-NOUN
+қайта B-ADV B-ADJ
+өрлеу B-VERB B-NOUN
+жолына B-NOUN B-NOUN
+түсті B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Жағдай B-NOUN B-NOUN
+өзгерді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Және B-CCONJ B-CCONJ
+осы B-DET B-DET
+күйсіз B-ADJ B-NOUN
+қалпында B-NOUN B-NOUN
+тәуір B-ADJ B-ADJ
+үйге B-NOUN B-NOUN
+бас B-NOUN B-NOUN
+сұғуға B-VERB B-VERB
+қорланды B-VERB B-AUX
+. B-PUNCT B-PUNCT
+
+Қазақстан B-PROPN B-PROPN
+– B-PUNCT B-PUNCT
+уран B-NOUN B-NOUN
+өндіруде B-VERB B-VERB
+әлемдік B-ADJ B-NOUN
+көшбасшы B-NOUN B-VERB
+. B-PUNCT B-PUNCT
+
+— B-PUNCT B-PUNCT
+О B-PRON B-PRON
+не B-PRON B-PRON
+? B-PUNCT B-PUNCT
+
+Дмитрий B-PROPN B-PROPN
+Медведевтің B-PROPN B-PROPN
+Астанаға B-PROPN B-PROPN
+сапары B-NOUN B-NOUN
+22 B-NUM B-NUM
+мамырға B-NOUN B-NOUN
+жоспарланып B-VERB B-VERB
+отыр B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Бұл B-PRON B-DET
+өте B-ADV B-NOUN
+тиімді B-ADJ B-ADJ
+келісімшарт B-NOUN B-NOUN
+. B-PUNCT B-PUNCT
+
+Азамат B-PROPN B-PROPN
+пен B-CCONJ B-CCONJ
+Айгүл B-PROPN B-PROPN
+ойнағанды B-VERB B-NOUN
+жақсы B-X B-NOUN
+көреді B-VERB B-VERB
+, B-PUNCT B-PUNCT
+олар B-PRON B-PRON
+әрдайым B-ADV B-NOUN
+үлкен B-ADJ B-ADJ
+үйдің B-NOUN B-NOUN
+алдындағы B-NOUN B-ADJ
+бақшада B-NOUN B-NOUN
+бірге B-ADV B-ADP
+ойнайды B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+1968 B-NUM B-NUM
+жылдан B-NOUN B-NOUN
+бастап B-VERB B-VERB
+Ширазда B-PROPN B-PROPN
+театр B-NOUN B-NOUN
+фестивалы B-NOUN B-NOUN
+өткізіліп B-VERB B-VERB
+тұрды B-AUX B-VERB
+. B-PUNCT B-PUNCT
+
+Макроэкономикалық B-ADJ B-ADJ
+көрсеткіштер B-NOUN B-NOUN
+жаман B-ADJ B-NOUN
+емес B-AUX B-VERB
+, B-PUNCT B-PUNCT
+деді B-VERB B-VERB
+Г. B-NOUN B-NOUN
+Марченко B-PROPN B-PROPN
+. B-PUNCT B-PUNCT
+
+Қазіргі B-ADV B-NOUN
+сенім B-NOUN B-NOUN
+мен B-CCONJ B-CCONJ
+достық B-NOUN B-ADJ
+қатынастар B-NOUN B-NOUN
+жалғасын B-NOUN B-NOUN
+табады B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Ол B-PRON B-PRON
+осы B-DET B-DET
+күнде B-NOUN B-NOUN
+не B-DET B-DET
+күйде B-NOUN B-NOUN
+екен B-AUX B-AUX
+? B-PUNCT B-PUNCT
+
+— B-PUNCT B-PUNCT
+Ойбай B-INTJ B-PROPN
+! B-PUNCT B-PUNCT
+
+— B-PUNCT B-PUNCT
+Енді B-ADV B-PRON
+қай B-DET B-DET
+жаққа B-NOUN B-NOUN
+барайын B-VERB B-VERB
+? B-PUNCT B-PUNCT
+. B-PUNCT B-PUNCT
+. B-PUNCT B-PUNCT
+
+Бұл B-DET B-DET
+ұсыныс B-NOUN B-NOUN
+біздің B-PRON B-PRON
+көршілеріміз B-NOUN B-NOUN
+тарапынан B-NOUN B-NOUN
+қолдау B-VERB B-VERB
+тауып B-VERB B-VERB
+отыр B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+— B-PUNCT B-PUNCT
+Е B-INTJ B-INTJ
+, B-PUNCT B-PUNCT
+ол B-DET B-DET
+арасы B-NOUN B-NOUN
+оңай B-ADJ B-NOUN
+. B-PUNCT B-PUNCT
+
+Бұл B-PRON B-DET
+халықаралық B-ADJ B-NOUN
+қоғамдастық B-NOUN B-NOUN
+үшін B-ADP B-ADP
+жақсы B-ADJ B-ADJ
+жағынан B-NOUN B-NOUN
+үлгі B-NOUN B-VERB
+болады B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Дінге B-NOUN B-NOUN
+де B-ADV B-ADP
+жақсы B-ADJ B-NOUN
+— B-PUNCT B-PUNCT
+білгендік B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Ол B-PRON B-PRON
+Азаматтың B-PROPN B-PROPN
+қайда B-ADV B-NOUN
+екенін B-AUX B-VERB
+білсе B-VERB B-AUX
+де B-ADV B-ADV
+айтқысы B-VERB B-NOUN
+келген B-жоқ B-VERB
+. B-PUNCT B-PUNCT
+
+— B-PUNCT B-PUNCT
+Қыз B-NOUN B-DET
+аманесен B-ADV B-NOUN
+үйіне B-NOUN B-NOUN
+келіпті B-VERB B-VERB
+, B-PUNCT B-PUNCT
+— B-PUNCT B-PUNCT
+деді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Бұл B-PRON B-DET
+сені B-PRON B-NOUN
+қатын B-NOUN B-NOUN
+қылады B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Ақтардың B-ADJ B-NOUN
+өзін B-PRON B-NOUN
+кеше B-ADV B-ADJ
+кешке B-NOUN B-NOUN
+әкелді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Мына B-DET B-DET
+төре B-NOUN B-NOUN
+сені B-PRON B-NOUN
+ешкімге B-PRON B-NOUN
+бермейді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Менің B-PRON B-PRON
+күйеуім B-NOUN B-ADJ
+ше B-PART B-PART
+? B-PUNCT B-PUNCT
+
+Шолпан B-PROPN B-NOUN
+Сәрсенбайға B-PROPN B-NOUN
+шыққан B-VERB B-VERB
+жылы B-NOUN B-NOUN
+өзіндей B-PRON B-NOUN
+жас B-ADJ B-ADJ
+келіншектермен B-NOUN B-NOUN
+аулақта B-ADJ B-VERB
+кеңескенде B-VERB B-VERB
+: B-PUNCT B-PUNCT
+« B-PUNCT B-PUNCT
+бала B-NOUN B-NOUN
+сыз B-ADP B-NOUN
+өмірдің B-NOUN B-NOUN
+қызығы B-ADJ B-NOUN
+жоқ B-ADJ B-NOUN
+қой B-PART B-VERB
+» B-PUNCT B-PUNCT
+, B-PUNCT B-PUNCT
+– B-PUNCT B-PUNCT
+деп B-VERB B-VERB
+аузымен B-NOUN B-NOUN
+ғана B-ADV B-NOUN
+айтушы B-VERB B-VERB
+еді B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Бірақ B-CCONJ B-CCONJ
+1918 B-NUM B-NUM
+ж. B-NOUN B-NOUN
+ағылшындар B-NOUN B-NOUN
+бүкіл B-DET B-NOUN
+Иранды B-PROPN B-PROPN
+басып B-X B-VERB
+алып B-VERB B-VERB
+, B-PUNCT B-PUNCT
+1919 B-NUM B-NUM
+ж. B-NOUN B-NOUN
+оны B-PRON B-PRON
+кіріптарлық B-NOUN B-ADJ
+шарттарға B-NOUN B-NOUN
+қол B-X B-NOUN
+қоюға B-VERB B-VERB
+мәжбүр B-X B-NOUN
+етті B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Қазіргі B-ADJ B-NOUN
+таңда B-NOUN B-NOUN
+аудан B-NOUN B-ADJ
+қайта B-ADV B-NOUN
+тұрғызылғандықтан B-VERB B-VERB
+, B-PUNCT B-PUNCT
+үйді B-NOUN B-NOUN
+бұзған B-VERB B-VERB
+, B-PUNCT B-PUNCT
+алайда B-SCONJ B-PRON
+оның B-PRON B-PRON
+орнында B-NOUN B-NOUN
+мемориалдық B-ADJ B-ADJ
+тақта B-NOUN B-NOUN
+қойылған B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Өзара B-ADJ B-NOUN
+тауар B-NOUN B-ADJ
+айналымының B-NOUN B-NOUN
+деңгейі B-NOUN B-NOUN
+53 B-NUM B-NUM
+миллиард B-NUM B-NUM
+долларға B-NOUN B-NOUN
+жетті B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Бүгін B-ADV B-DET
+Мемлекет B-NOUN B-NOUN
+басшысы B-NOUN B-NOUN
+Нұрсұлтан B-PROPN B-PROPN
+Назарбаев B-PROPN B-PROPN
+бірқатар B-DET B-NOUN
+Заңдарға B-NOUN B-PROPN
+қол B-X B-NOUN
+қойды B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Бірінен B-NUM B-PRON
+болмаса B-AUX B-VERB
+бірінен B-NUM B-NOUN
+өлуіміз B-VERB B-VERB
+хақ B-NOUN B-ADJ
+. B-PUNCT B-PUNCT
+
+Қараңғылық B-NOUN B-NOUN
+қоюланып B-VERB B-VERB
+келеді B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Бұл B-DET B-DET
+жолы B-NOUN B-NOUN
+үй B-NOUN B-DET
+иесі B-NOUN B-NOUN
+Қожанасырды B-PROPN B-NOUN
+құрметтейді B-VERB B-VERB
+, B-PUNCT B-PUNCT
+төрден B-NOUN B-NOUN
+орын B-NOUN B-NOUN
+береді B-VERB B-VERB
+, B-PUNCT B-PUNCT
+ет B-NOUN B-NOUN
+келгенде B-VERB B-VERB
+: B-PUNCT B-PUNCT
+Қожеке B-PROPN B-PROPN
+, B-PUNCT B-PUNCT
+алыңыз B-VERB B-VERB
+, B-PUNCT B-PUNCT
+алыңыз B-VERB B-VERB
+! B-PUNCT B-PUNCT
+деп B-VERB B-VERB
+, B-PUNCT B-PUNCT
+қошеметтейді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Қазіргі B-ADJ B-NOUN
+уақыттағы B-NOUN B-NOUN
+дағдарыс B-NOUN B-NOUN
+біз B-PRON B-PRON
+үшін B-ADP B-ADP
+нағыз B-ADJ B-ADJ
+сынақ B-NOUN B-NOUN
+болды B-AUX B-VERB
+. B-PUNCT B-PUNCT
+
+Бір B-NUM B-DET
+қыстық B-ADJ B-NOUN
+азығын B-NOUN B-NOUN
+алып B-VERB B-VERB
+, B-PUNCT B-PUNCT
+кемпірі B-NOUN B-NOUN
+мен B-CCONJ B-CCONJ
+Ерназар B-PROPN B-PROPN
+үйінде B-NOUN B-NOUN
+қалыпты B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Соңынан B-NOUN B-NOUN
+қарбыз B-NOUN B-NOUN
+сойылды B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Кімге B-PRON B-NOUN
+сенуге B-VERB B-VERB
+, B-PUNCT B-PUNCT
+кіммен B-PRON B-NOUN
+істесуге B-VERB B-VERB
+болады B-VERB B-AUX
+? B-PUNCT B-PUNCT
+
+Сербия B-PROPN B-NOUN
+мен B-CCONJ B-PRON
+Қазақстан B-PROPN B-PROPN
+арасында B-NOUN B-NOUN
+шешілмеген B-VERB B-VERB
+мәселе B-NOUN B-NOUN
+жоқ B-ADJ B-ADJ
+. B-PUNCT B-PUNCT
+
+Астана B-PROPN B-PROPN
+, B-PUNCT B-PUNCT
+Ақорда B-PROPN B-PROPN
+
+Төртінші B-NUM B-NOUN
+– B-PUNCT B-PUNCT
+экспортқа B-NOUN B-NOUN
+бағдарлау B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Қазақстан B-PROPN B-PROPN
+басшысы B-NOUN B-NOUN
+мұнда B-PRON B-PRON
+менің B-PRON B-PRON
+әкем B-NOUN B-NOUN
+Президент B-NOUN B-PROPN
+болып B-AUX B-VERB
+тұрған B-AUX B-VERB
+кезде B-NOUN B-NOUN
+болған B-AUX B-VERB
+. B-PUNCT B-PUNCT
+
+Жаңа B-ADJ B-NOUN
+кәсіпорындардың B-NOUN B-NOUN
+жұмыс B-X B-NOUN
+істеуі B-VERB B-VERB
+үшін B-ADP B-ADP
+жаңа B-ADJ B-ADJ
+мамандар B-NOUN B-NOUN
+қажет B-ADJ B-ADJ
+. B-PUNCT B-PUNCT
+
+— B-PUNCT B-PUNCT
+Мен B-PRON B-PRON
+білмеймін B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Бұл B-DET B-DET
+тұрғыдан B-NOUN B-NOUN
+келгенде B-VERB B-VERB
+, B-PUNCT B-PUNCT
+Қазақстан B-PROPN B-PROPN
+елден B-NOUN B-NOUN
+ерек B-NOUN B-ADJ
+екенін B-AUX B-NOUN
+айтқым B-VERB B-VERB
+келеді B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Экономикадан B-NOUN B-NOUN
+бастау B-VERB B-VERB
+қажет B-ADJ B-ADJ
+. B-PUNCT B-PUNCT
+
+Айгүл B-PROPN B-PROPN
+бақшаның B-NOUN B-NOUN
+ішінде B-NOUN B-NOUN
+ақырын B-ADJ B-NOUN
+басып B-VERB B-VERB
+жүр B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Төлеген B-PROPN B-NOUN
+қызарып B-VERB B-VERB
+төмен B-ADV B-NOUN
+қарады B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Барлық B-ADJ B-DET
+министрлер B-NOUN B-NOUN
+Президент B-NOUN B-PROPN
+идеясымен B-NOUN B-NOUN
+келісті B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Біз B-PRON B-PRON
+осы B-DET B-DET
+дәстүрді B-NOUN B-NOUN
+қастерлеп B-VERB B-VERB
+сақтаймыз B-VERB B-AUX
+және B-CCONJ B-CCONJ
+нығайтамыз B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Үшінші B-NUM B-ADJ
+қабатта B-NOUN B-NOUN
+Астана B-PROPN B-PROPN
+қаласы B-NOUN B-ADJ
+тарихының B-NOUN B-NOUN
+мұражайын B-NOUN B-NOUN
+орналастыру B-VERB B-VERB
+жоспарланып B-VERB B-VERB
+отыр B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Украин B-NOUN B-NOUN
+және B-CCONJ B-CCONJ
+татар B-NOUN B-ADJ
+тілдерін B-NOUN B-NOUN
+біледі B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Тұрғын B-ADJ B-NOUN
+үй B-NOUN B-ADJ
+кешені B-NOUN B-NOUN
+487 B-NUM B-NUM
+пәтерден B-NOUN B-NOUN
+тұрады B-AUX B-VERB
+. B-PUNCT B-PUNCT
+
+Қандай B-PRON B-NOUN
+кітап B-NOUN B-VERB
+оқиды B-VERB B-AUX
+? B-PUNCT B-PUNCT
+
+Қазақстан B-PROPN B-PROPN
+– B-PUNCT B-PUNCT
+табиғи B-ADJ B-NOUN
+ресурстар B-NOUN B-NOUN
+мен B-CCONJ B-CCONJ
+таланттарға B-NOUN B-NOUN
+аса B-ADV B-NOUN
+бай B-ADJ B-ADJ
+ел B-NOUN B-NOUN
+. B-PUNCT B-PUNCT
+
+Ендеше B-ADV B-ADJ
+тілегімді B-NOUN B-NOUN
+берді B-VERB B-VERB
+, B-PUNCT B-PUNCT
+деді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+5 B-NUM B-NUM
+полиция B-NOUN B-NOUN
+қызметкері B-NOUN B-NOUN
+жарақаттанған B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Бұл B-PRON B-PRON
+Азамат B-PROPN B-PROPN
+болу B-AUX B-VERB
+керек B-ADJ B-ADJ
+! B-PUNCT B-PUNCT
+
+Үй B-NOUN B-DET
+іші B-NOUN B-NOUN
+тастай B-NOUN B-NOUN
+қараңғы B-ADJ B-VERB
+. B-PUNCT B-PUNCT
+
+Қазақта B-NOUN B-NOUN
+жер B-NOUN B-ADJ
+көп B-ADJ B-AUX
+. B-PUNCT B-PUNCT
+
+Арақ B-NOUN B-NOUN
+ішілген B-VERB B-VERB
+сайын B-ADP B-NOUN
+, B-PUNCT B-PUNCT
+күлкі B-NOUN B-NOUN
+көбейіп B-VERB B-VERB
+, B-PUNCT B-PUNCT
+мәжіліс B-NOUN B-ADJ
+қызуға B-VERB B-NOUN
+айналды B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Мұнай B-NOUN B-ADJ
+экспортынан B-NOUN B-NOUN
+жыл B-X B-ADJ
+сайын B-ADV B-NOUN
+16,3 B-NUM B-NUM
+млрд. B-NOUN B-NOUN
+АҚШ B-PROPN B-PROPN
+доллары B-NOUN B-NOUN
+түседі B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Таулы B-ADJ B-NOUN
+аудандарда B-NOUN B-NOUN
+көптеген B-DET B-VERB
+көлдер B-NOUN B-NOUN
+кездеседі B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Кімге B-PRON B-NOUN
+жалынсын B-VERB B-VERB
+, B-PUNCT B-PUNCT
+кімге B-PRON B-NOUN
+сенсін B-VERB B-VERB
+? B-PUNCT B-PUNCT
+
+Сөйтіп B-VERB B-VERB
+практикалық B-ADJ B-ADJ
+қажеттілік B-NOUN B-NOUN
+астрономия B-NOUN B-NOUN
+ғылымының B-NOUN B-NOUN
+тууына B-VERB B-NOUN
+ең B-X B-DET
+басты B-ADV B-NOUN
+түрткі B-NOUN B-VERB
+болды B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Екі B-NUM B-DET
+мемлекет B-NOUN B-NOUN
+басшылары B-NOUN B-NOUN
+шағын B-ADJ B-NOUN
+және B-CCONJ B-CCONJ
+кеңейтілген B-VERB B-ADJ
+құрамда B-NOUN B-NOUN
+келіссөздер B-NOUN B-NOUN
+жүргізді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+— B-PUNCT B-PUNCT
+Бұл B-DET B-DET
+арыздағы B-NOUN B-NOUN
+сөздің B-NOUN B-NOUN
+бәрі B-PRON B-ADJ
+рас B-NOUN B-NOUN
+... B-PUNCT B-PUNCT
+
+Жұмыссыздық B-NOUN B-NOUN
+12 B-NUM B-NUM
+пайызға B-NOUN B-NOUN
+төмендеді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Елде B-NOUN B-NOUN
+тұрақтылық B-NOUN B-NOUN
+бар B-ADJ B-ADJ
+. B-PUNCT B-PUNCT
+
+Құрылыстың B-NOUN B-NOUN
+аумағы B-NOUN B-NOUN
+488 B-NUM B-NUM
+шаршы B-ADJ B-NOUN
+метрді B-NOUN B-NOUN
+құрайды B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Орыс B-NOUN B-NOUN
+және B-CCONJ B-CCONJ
+неміс B-NOUN B-ADJ
+тілдерін B-NOUN B-NOUN
+біледі B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Византияға B-PROPN B-NOUN
+қауіп B-NOUN B-VERB
+төндірді B-VERB B-AUX
+, B-PUNCT B-PUNCT
+Түрік B-NOUN B-NOUN
+қағанатымен B-NOUN B-NOUN
+соғыс B-NOUN B-NOUN
+жүргізді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Асумен B-NOUN B-PROPN
+асып B-VERB B-VERB
+елге B-NOUN B-NOUN
+бара B-VERB B-VERB
+жатқан B-AUX B-AUX
+, B-PUNCT B-PUNCT
+елден B-NOUN B-NOUN
+мал B-NOUN B-ADP
+, B-PUNCT B-PUNCT
+азық B-NOUN B-ADJ
+түлік B-NOUN B-NOUN
+алып B-VERB B-VERB
+келе B-VERB B-AUX
+жатқан B-VERB B-VERB
+орыстарды B-NOUN B-NOUN
+талай B-ADJ B-VERB
+көрген B-VERB B-AUX
+. B-PUNCT B-PUNCT
+
+18 B-NUM B-NUM
+ғасырдың B-NOUN B-NOUN
+аяғында B-NOUN B-NOUN
+билікке B-NOUN B-NOUN
+Каджар B-PROPN B-PROPN
+әулеті B-NOUN B-NOUN
+келді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+1941 B-NUM B-NUM
+ж. B-NOUN B-NOUN
+16 B-NUM B-NUM
+қыркүйекте B-NOUN B-NOUN
+Реза B-PROPN B-PROPN
+шаһ B-NOUN B-NOUN
+тақтан B-NOUN B-NOUN
+өз B-DET B-DET
+еркімен B-ADJ B-NOUN
+бас B-NOUN B-NOUN
+тартып B-VERB B-VERB
+, B-PUNCT B-PUNCT
+орнына B-NOUN B-NOUN
+баласы B-NOUN B-NOUN
+Мұхаммед B-PROPN B-PROPN
+Реза B-PROPN B-PROPN
+Пехлеви B-PROPN B-PROPN
+шаһ B-NOUN B-NOUN
+болды B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Соның B-PRON B-PRON
+өзінде B-PRON B-NOUN
+, B-PUNCT B-PUNCT
+біз B-PRON B-PRON
+бұл B-DET B-DET
+жаман B-ADJ B-NOUN
+көрсеткіш B-NOUN B-VERB
+емес B-AUX B-NOUN
+деп B-VERB B-VERB
+санаймыз B-VERB B-AUX
+. B-PUNCT B-PUNCT
+
+Елде B-NOUN B-NOUN
+шет B-NOUN B-ADJ
+ел B-NOUN B-NOUN
+капиталының B-NOUN B-NOUN
+үстемдік B-NOUN B-NOUN
+алуы B-VERB B-VERB
+, B-PUNCT B-PUNCT
+ұлттық B-ADJ B-ADJ
+құндылықтардың B-NOUN B-NOUN
+аяққа B-NOUN B-NOUN
+басылуы B-VERB B-NOUN
+1978 B-NUM B-NUM
+— B-PUNCT B-PUNCT
+79 B-NUM B-NUM
+ж. B-NOUN B-NOUN
+халықтың B-NOUN B-NOUN
+шаһ B-NOUN B-NOUN
+үкіметіне B-NOUN B-NOUN
+қарсы B-ADP B-NOUN
+жаппай B-ADJ B-VERB
+бас B-X B-NOUN
+көтеруіне B-VERB B-VERB
+алып B-X B-AUX
+келді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Иран B-PROPN B-PROPN
+— B-PUNCT B-PUNCT
+діни B-ADJ B-NOUN
+мемлекет B-NOUN B-NOUN
+. B-PUNCT B-PUNCT
+
+Кемпірі B-NOUN B-NOUN
+екеуінің B-NUM B-NOUN
+тұруға B-VERB B-VERB
+әлдері B-NOUN B-NOUN
+әреңәрең B-ADV B-NOUN
+келеді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+— B-PUNCT B-PUNCT
+Немене B-PRON B-INTJ
+, B-PUNCT B-PUNCT
+жаным B-NOUN B-NOUN
+? B-PUNCT B-PUNCT
+
+Үкімет B-NOUN B-NOUN
+басына B-NOUN B-NOUN
+шиит B-NOUN B-NOUN
+дінбасыларының B-NOUN B-NOUN
+көсемі B-NOUN B-NOUN
+аятолла B-NOUN B-NOUN
+Р. B-NOUN B-NOUN
+Хомейни B-PROPN B-PROPN
+келді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Оң B-ADJ B-PRON
+серпін B-NOUN B-ADJ
+ағымдағы B-NOUN B-NOUN
+жылы B-NOUN B-NOUN
+да B-ADV B-ADV
+сақталып B-VERB B-VERB
+отыр B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Сондайақ B-CCONJ B-ADJ
+жаттығу B-NOUN B-NOUN
+залы B-NOUN B-NOUN
+мен B-CCONJ B-CCONJ
+қысқы B-ADJ B-NOUN
+бақ B-NOUN B-ADJ
+бар B-ADJ B-ADJ
+. B-PUNCT B-PUNCT
+
+Қазақстан B-PROPN B-PROPN
+осы B-DET B-DET
+өңірдегі B-NOUN B-NOUN
+бейбітшілікті B-NOUN B-NOUN
+қолдайды B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+— B-PUNCT B-PUNCT
+Жоқ B-INTJ B-INTJ
+, B-PUNCT B-PUNCT
+оны B-PRON B-PRON
+артынан B-NOUN B-NOUN
+сөйлесерміз B-VERB B-VERB
+... B-PUNCT B-PUNCT
+
+Бұл B-PRON B-PRON
+өзі B-PRON B-PRON
+үлкен B-ADJ B-ADJ
+төре B-NOUN B-NOUN
+. B-PUNCT B-PUNCT
+
+Соған B-PRON B-PRON
+қарамастан B-ADP B-VERB
+мен B-PRON B-CCONJ
+тәртіп B-NOUN B-NOUN
+орнатуға B-VERB B-VERB
+қарсы B-ADP B-NOUN
+үлкен B-ADJ B-VERB
+қарсылықты B-NOUN B-NOUN
+сезіп B-VERB B-VERB
+тұрмын B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Осындай B-DET B-PRON
+жаман B-ADJ B-ADJ
+сөзді B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+Құдайдан B-NOUN B-NOUN
+қорықпай B-VERB B-VERB
+, B-PUNCT B-PUNCT
+пендеден B-NOUN B-NOUN
+ұялмай B-VERB B-VERB
+айтқан B-VERB B-VERB
+қазақтардың B-NOUN B-NOUN
+баласы B-NOUN B-NOUN
+оқығанменен B-VERB B-NOUN
+не B-PRON B-PRON
+бола B-AUX B-VERB
+қойсын B-AUX B-AUX
+? B-PUNCT B-PUNCT
+
+Әңгімелесуші B-VERB B-NOUN
+тараптар B-NOUN B-NOUN
+әлемдегі B-NOUN B-NOUN
+саяси B-ADJ B-NOUN
+және B-CCONJ B-CCONJ
+экономикалық B-ADJ B-ADJ
+ахуалды B-NOUN B-NOUN
+талқылады B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Ол B-DET B-PRON
+дыбыс B-NOUN B-ADJ
+қайта B-ADV B-NOUN
+естіледі B-VERB B-VERB
+! B-PUNCT B-PUNCT
+
+Алматының B-PROPN B-PROPN
+күннен B-NOUN B-NOUN
+күнге B-NOUN B-NOUN
+көркеюін B-VERB B-NOUN
+көру B-VERB B-VERB
+өте B-ADV B-NOUN
+қуанышты B-ADJ B-VERB
+. B-PUNCT B-PUNCT
+
+Осы B-DET B-DET
+уақыт B-NOUN B-NOUN
+аралығында B-NOUN B-NOUN
+мұнда B-PRON B-PRON
+көп B-DET B-ADJ
+нәрсе B-NOUN B-NOUN
+өзгерді B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Енді B-ADV B-PRON
+бұл B-DET B-DET
+беттен B-NOUN B-NOUN
+қайтуға B-VERB B-VERB
+өткел B-NOUN B-NOUN
+жоқ B-ADJ B-ADJ
+... B-PUNCT B-PUNCT
+
+Қазақ B-NOUN B-ADJ
+солдаттан B-NOUN B-NOUN
+өлгенше B-VERB B-NOUN
+қорқады B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Сізге B-PRON B-PRON
+тағы B-ADV B-NOUN
+да B-ADV B-ADV
+« B-PUNCT B-PUNCT
+қош B-X B-NOUN
+келдіңіз B-INTJ B-VERB
+» B-PUNCT B-PUNCT
+деймін B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Біз B-PRON B-PRON
+олардың B-PRON B-PRON
+қайғыларын B-NOUN B-NOUN
+бөлісеміз B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Жабдықтар B-NOUN B-NOUN
+осы B-DET B-DET
+жылдың B-NOUN B-NOUN
+наурызында B-NOUN B-NOUN
+іске B-X B-NOUN
+қосылады B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+– B-PUNCT B-PUNCT
+Біз B-PRON B-PRON
+жаттығулар B-NOUN B-ADJ
+барысын B-NOUN B-NOUN
+мұқият B-ADJ B-NOUN
+бақылап B-VERB B-VERB
+отырдық B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+12 B-NUM B-NUM
+. B-PUNCT B-PUNCT
+Мұнан B-PRON B-PRON
+кейін B-ADP B-ADP
+елге B-NOUN B-NOUN
+сайлаушы B-NOUN B-NOUN
+шықты B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Оған B-PRON B-PRON
+ежелгі B-ADV B-NOUN
+қоныстарға B-NOUN B-NOUN
+жүргізілген B-VERB B-VERB
+археологиялық B-ADJ B-ADJ
+қазба B-NOUN B-NOUN
+жұмыстары B-NOUN B-NOUN
+кезінде B-NOUN B-NOUN
+табылған B-VERB B-VERB
+мәдениет B-NOUN B-NOUN
+мұралары B-NOUN B-NOUN
+дәлел B-NOUN B-NOUN
+бола B-AUX B-VERB
+алады B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Онысы B-PRON B-PRON
+қандай B-PRON B-ADJ
+болып B-AUX B-AUX
+шығады B-VERB B-VERB
+? B-PUNCT B-PUNCT
+
+Ақтар B-ADJ B-NOUN
+қашып B-VERB B-VERB
+, B-PUNCT B-PUNCT
+қызылдар B-ADJ B-NOUN
+келіп B-VERB B-VERB
+, B-PUNCT B-PUNCT
+қала B-NOUN B-ADJ
+қалаға B-NOUN B-NOUN
+орнады B-VERB B-VERB
+. B-PUNCT B-PUNCT
+
+Ол B-PRON B-PRON
+тағы B-ADV B-NOUN
+білінбей B-VERB B-VERB
+қалмайды B-AUX B-AUX
+. B-PUNCT B-PUNCT
+
+Біздің B-PRON B-PRON
+елдеріміз B-NOUN B-NOUN
+арасында B-NOUN B-NOUN
+ешқашан B-ADV B-NOUN
+ешқандай B-DET B-VERB
+да B-ADV B-ADV
+қайшылықтар B-NOUN B-ADJ
+болған B-емес B-AUX
+. B-PUNCT B-PUNCT
+
+1946 B-NUM B-NUM
+ж. B-NOUN B-NOUN
+Тегеранда B-PROPN B-PROPN
+“ B-PUNCT B-PUNCT
+Митра B-NOUN B-PROPN
+фильм B-NOUN B-NOUN
+” B-PUNCT B-PUNCT
+киностудиясы B-NOUN B-NOUN
+құрылды B-VERB B-VERB
+. B-PUNCT B-PUNCT
+

@@ -1,0 +1,564 @@
+1	NOUN	_	NOUN	NOUN	_	4	nsubj	_	_
+2	CCONJ	_	CCONJ	CONJ	_	3	cc	_	_
+3	NOUN	_	NOUN	NOUN	_	1	conj	_	_
+4	VERB	_	VERB	VERB	_	0	root	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	10	punct	_	_
+2	NOUN	_	NOUN	NOUN	_	3	obj	_	_
+3	VERB	_	VERB	VERB	_	10	advcl	_	_
+4	PUNCT	_	PUNCT	PUNCT	_	3	punct	_	_
+5	PRON	_	PRON	PINT	PronType=Int	6	obj	_	_
+6	VERB	_	VERB	VERB	_	10	obj	_	_
+7	PART	_	PART	CL2P	Clitic=Spcl	10	aux:val	_	_
+8	DET	_	DET	DET	_	9	det	_	_
+9	NOUN	_	NOUN	NOUN	_	10	nsubj	_	_
+10	VERB	_	VERB	VERB	_	0	root	_	_
+11	AUX	_	AUX	AUX	_	10	aux	_	_
+12	PUNCT	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	9	punct	_	_
+2	ADV	_	ADV	ADV	_	4	advmod	_	_
+3	ADV	_	ADV	ADV	_	4	advmod	_	_
+4	VERB	_	VERB	VERB	_	9	advcl	_	_
+5	PART	_	PART	CL2P	Clitic=Spcl	9	aux:val	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+7	ADV	_	ADV	PINT	PronType=Int	9	obj	_	_
+8	NOUN	_	NOUN	NOUN	_	9	nsubj	_	_
+9	VERB	_	VERB	VERB	_	0	root	_	_
+10	AUX	_	AUX	AUX	_	9	aux	_	_
+11	PUNCT	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+2	ADV	_	ADV	PINT	PronType=Int	5	advmod	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	2	aux:val	_	_
+4	DET	_	DET	DET	_	5	det	_	_
+5	NOUN	_	NOUN	NOUN	_	0	root	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	ADJ	_	ADJ	ADJ	_	2	amod	_	_
+2	NOUN	_	NOUN	NOUN	_	3	nsubj	_	_
+3	VERB	_	VERB	VERB	_	0	root	_	_
+4	ADV	_	ADV	ADV	_	3	advmod	_	_
+5	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+6	NOUN	_	NOUN	NOUN	_	3	nsubj	_	_
+7	ADJ	_	ADJ	ADJ	_	6	amod	_	_
+8	PART	_	PART	CLPL	Clitic=Lfcl	7	Lfcl	_	_
+9	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	NOUN	_	NOUN	NOUN	_	2	nsubj	_	_
+2	VERB	_	VERB	VERB	_	4	nsubj	_	_
+3	VERB	_	VERB	VERB	_	4	cop	_	_
+4	PRON	_	PRON	PRON	_	0	root	_	_
+5	PART	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+2	PRON	_	PRON	PRON	_	5	nsubj	_	_
+3	PART	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	INTJ	_	INTJ	INTJ	_	5	compound	_	_
+5	VERB	_	VERB	VERB	_	0	root	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+2	NOUN	_	NOUN	NOUN	_	6	nsubj	_	_
+3	PART	_	PART	CLPL	Clitic=Lfcl	2	Lfcl	_	_
+4	NOUN	_	NOUN	NOUN	_	2	compound	_	_
+5	PART	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+6	VERB	_	VERB	VERB	_	0	root	_	_
+7	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	CCONJ	_	CCONJ	CONJ	_	4	cc	_	_
+2	PRON	_	PRON	PRON	_	4	nsubj	_	_
+3	PART	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	VERB	_	VERB	VERB	_	0	root	_	_
+5	AUX	_	AUX	AUX	_	4	aux	_	_
+6	DET	_	DET	DET	_	7	det	_	_
+7	NOUN	_	NOUN	NOUN	_	4	obl	_	_
+8	PART	_	PART	CLNOM	Clitic=Nomcl	7	case	_	_
+9	PART	_	PART	CLPL	Clitic=Lfcl	7	Lfcl	_	_
+10	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	NOUN	_	NOUN	NOUN	_	2	compound	_	_
+2	NOUN	_	NOUN	NOUN	_	7	nsubj	_	_
+3	PART	_	PART	CLPL	Clitic=Lfcl	2	Lfcl	_	_
+4	PUNCT	_	PUNCT	PUNCT	_	2	punct	_	_
+5	VERB	_	VERB	VERB	_	7	amod	_	_
+6	PART	_	PART	CLPL	Clitic=Lfcl	5	Lfcl	_	_
+7	NOUN	_	NOUN	NOUN	_	0	root	_	_
+8	VERB	_	VERB	VERB	_	7	cop	_	_
+9	PUNCT	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	VERB	_	VERB	VERB	_	0	root	_	_
+2	NOUN	_	NOUN	NOUN	_	1	nsubj	_	_
+3	PUNCT	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+2	PRON	_	PRON	PRON	_	5	nsubj	_	_
+3	PART	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	NOUN	_	NOUN	NOUN	_	5	obj	_	_
+5	VERB	_	VERB	VERB	_	0	root	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+2	PRON	_	PRON	PRON	_	6	nsubj	_	_
+3	PART	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	PRON	_	PRON	PRON	_	6	obj	_	_
+5	PART	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	VERB	_	VERB	VERB	_	0	root	_	_
+7	AUX	_	AUX	AUX	_	6	aux	_	_
+8	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	7	punct	_	_
+2	DET	_	DET	DET	_	3	det	_	_
+3	NOUN	_	NOUN	NOUN	_	5	compound	_	_
+4	VERB	_	VERB	VERB	_	5	amod	_	_
+5	NOUN	_	NOUN	NOUN	_	7	nsubj	_	_
+6	PART	_	PART	CLNOM	Clitic=Nomcl	7	aux:val	_	_
+7	VERB	_	VERB	VERB	_	0	root	_	_
+8	PUNCT	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	PRON	_	PRON	PRON	_	0	root	_	_
+2	PART	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	1	aux:val	_	_
+4	NOUN	_	NOUN	NOUN	_	1	nsubj	_	_
+5	VERB	_	VERB	VERB	_	1	cop	_	_
+
+1	CCONJ	_	CCONJ	CONJ	_	5	cc	_	_
+2	ADV	_	ADV	ADV	_	5	advmod	_	_
+3	VERB	_	VERB	VERB	_	5	advcl	_	_
+4	VERB	_	VERB	VERB	_	5	advcl	_	_
+5	VERB	_	VERB	VERB	_	0	root	_	_
+6	PART	_	PART	CLPL	Clitic=Lfcl	5	Lfcl	_	_
+7	AUX	_	AUX	AUX	_	5	aux	_	_
+8	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	NOUN	_	NOUN	NOUN	_	6	nsubj	_	_
+2	PART	_	PART	CLPL	Clitic=Lfcl	1	Lfcl	_	_
+3	VERB	_	VERB	VERB	_	6	cop	_	_
+4	ADJ	_	ADJ	ADJ	_	6	amod	_	_
+5	PART	_	PART	CLPL	Clitic=Lfcl	4	Lfcl	_	_
+6	NOUN	_	NOUN	NOUN	_	0	root	_	_
+7	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	CCONJ	_	CCONJ	CONJ	_	6	cc	_	_
+2	PUNCT	_	PUNCT	PUNCT	_	1	punct	_	_
+3	NOUN	_	NOUN	NOUN	_	6	nsubj	_	_
+4	PART	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	VERB	_	VERB	VERB	_	6	obj	_	_
+6	VERB	_	VERB	VERB	_	0	root	_	_
+7	AUX	_	AUX	AUX	_	6	aux	_	_
+8	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+9	VERB	_	VERB	VERB	_	6	advcl	_	_
+10	AUX	_	AUX	AUX	_	9	aux	_	_
+11	PART	_	PART	CLPL	Clitic=Lfcl	10	Lfcl	_	_
+12	PUNCT	_	PUNCT	PUNCT	_	9	punct	_	_
+
+1	PRON	_	PRON	PRON	_	3	obl	_	_
+2	PART	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	VERB	_	VERB	VERB	_	0	root	_	_
+4	PRON	_	PRON	PRON	_	3	nsubj	_	_
+5	PART	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+
+1	PRON	_	PRON	PRON	_	3	nsubj	_	_
+2	PART	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	VERB	_	VERB	VERB	_	0	root	_	_
+4	AUX	_	AUX	AUX	_	3	aux	_	_
+5	ADJ	_	ADJ	ADJ	_	6	amod	_	_
+6	NOUN	_	NOUN	NOUN	_	3	obj	_	_
+7	PART	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+8	PUNCT	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+2	ADV	_	ADV	PINT	PronType=Int	6	advmod	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+4	PRON	_	PRON	PRON	_	6	nsubj	_	_
+5	PART	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	VERB	_	VERB	VERB	_	0	root	_	_
+7	PART	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+8	AUX	_	AUX	AUX	_	6	aux	_	_
+9	PRON	_	PRON	PRON	_	11	nmod	_	_
+10	PART	_	PART	CLNOM	Clitic=Nomcl	9	case	_	_
+11	NOUN	_	NOUN	NOUN	_	6	obj	_	_
+12	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	7	punct	_	_
+2	CCONJ	_	CCONJ	CONJ	_	7	cc	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	7	aux:val	_	_
+4	NOUN	_	NOUN	NOUN	_	7	nsubj	_	_
+5	PART	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	PRON	_	PRON	PINT	PronType=Int	7	obj	_	_
+7	VERB	_	VERB	VERB	_	0	root	_	_
+8	AUX	_	AUX	AUX	_	7	aux	_	_
+9	PUNCT	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	NOUN	_	NOUN	NOUN	_	0	root	_	_
+2	NOUN	_	NOUN	NOUN	_	1	nmod	_	_
+3	PART	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+
+1	PRON	_	PRON	PRON	_	2	obj	_	_
+2	VERB	_	VERB	VERB	_	0	root	_	_
+3	AUX	_	AUX	AUX	_	2	aux	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+2	PRON	_	PRON	PRON	_	5	nsubj	_	_
+3	PART	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	PRON	_	PRON	PRON	_	5	obl	_	_
+5	VERB	_	VERB	VERB	_	0	root	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	DET	_	DET	DET	_	2	det	_	_
+2	NOUN	_	NOUN	NOUN	_	5	nsubj	_	_
+3	PART	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	NOUN	_	NOUN	NOUN	_	5	obj	_	_
+5	VERB	_	VERB	VERB	_	0	root	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	PROPN	_	PROPN	PROPN	_	4	nsubj	_	_
+2	PROPN	_	PROPN	PROPN	_	4	nsubj	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4	VERB	_	VERB	VERB	_	0	root	_	_
+5	NOUN	_	NOUN	NOUN	_	4	obl	_	_
+6	ADJ	_	ADJ	ADJ	_	5	amod	_	_
+7	ADP	_	ADP	POSTP	AdpType=Post	5	case	_	_
+8	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	CCONJ	_	CCONJ	CONJ	_	4	cc	_	_
+2	PART	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+3	PUNCT	_	PUNCT	PUNCT	_	1	punct	_	_
+4	VERB	_	VERB	VERB	_	0	root	_	_
+5	AUX	_	AUX	AUX	_	4	aux	_	_
+6	ADV	_	ADV	ADV	_	4	advmod	_	_
+7	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+8	NOUN	_	NOUN	NOUN	_	4	obl	_	_
+9	PART	_	PART	CLNOM	Clitic=Nomcl	8	case	_	_
+10	PART	_	PART	CLPL	Clitic=Lfcl	8	Lfcl	_	_
+11	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	CCONJ	_	CCONJ	CONJ	_	6	cc	_	_
+2	ADJ	_	ADJ	ADJ	_	3	amod	_	_
+3	NOUN	_	NOUN	NOUN	_	6	nsubj	_	_
+4	PART	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	PROPN	_	PROPN	PROPN	_	6	obj	_	_
+6	VERB	_	VERB	VERB	_	0	root	_	_
+7	AUX	_	AUX	AUX	_	6	aux	_	_
+8	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	CCONJ	_	CCONJ	CONJ	_	4	cc	_	_
+2	DET	_	DET	DET	_	3	det	_	_
+3	NOUN	_	NOUN	NOUN	_	4	nsubj	_	_
+4	VERB	_	VERB	VERB	_	0	root	_	_
+5	AUX	_	AUX	AUX	_	4	aux	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	NOUN	_	NOUN	NOUN	_	5	obl	_	_
+2	ADP	_	ADP	POSTP	AdpType=Post	1	case	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+4	NOUN	_	NOUN	NOUN	_	5	nsubj	_	_
+5	VERB	_	VERB	VERB	_	0	root	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	PRON	_	PRON	PRON	_	3	nmod	_	_
+2	PART	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	NOUN	_	NOUN	NOUN	_	7	nsubj	_	_
+4	PART	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	PRON	_	PRON	PRON	_	7	obj	_	_
+6	PART	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+7	VERB	_	VERB	VERB	_	0	root	_	_
+8	VERB	_	VERB	VERB	_	7	advcl	_	_
+9	PUNCT	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	PROPN	_	PROPN	PROPN	_	7	nsubj	_	_
+2	PROPN	_	PROPN	PROPN	_	1	flat	_	_
+3	VERB	_	VERB	VERB	_	7	cop	_	_
+4	AUX	_	AUX	AUX	_	3	aux	_	_
+5	NOUN	_	NOUN	NOUN	_	7	nmod	_	_
+6	PART	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+7	NOUN	_	NOUN	NOUN	_	0	root	_	_
+8	PUNCT	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	NOUN	_	NOUN	NOUN	_	2	nsubj	_	_
+2	VERB	_	VERB	VERB	_	3	amod	_	_
+3	NOUN	_	NOUN	NOUN	_	5	obj	_	_
+4	ADV	_	ADV	ADV	_	5	advmod	_	_
+5	VERB	_	VERB	VERB	_	0	root	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	PRON	_	PRON	PRON	_	5	nsubj	_	_
+2	PART	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	PRON	_	PRON	PRON	_	5	obj	_	_
+4	PART	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	VERB	_	VERB	VERB	_	0	root	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+2	PINT	_	PINT	PINT	PronType=Int	6	nsubj	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	6	cop	_	_
+4	PRON	_	PRON	PRON	_	6	nmod	_	_
+5	PART	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	NOUN	_	NOUN	NOUN	_	0	root	_	_
+7	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	VERB	_	VERB	VERB	_	0	root	_	_
+2	VERB	_	VERB	VERB	_	1	aux	_	_
+3	PRON	_	PRON	PRON	_	1	nsubj	_	_
+4	PART	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	8	punct	_	_
+2	CCONJ	_	CCONJ	CONJ	_	8	cc	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	8	aux:val	_	_
+4	DET	_	DET	DET	_	5	det	_	_
+5	NOUN	_	NOUN	NOUN	_	8	nsubj	_	_
+6	PART	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+7	PRON	_	PRON	PINT	PronType=Int	8	obj	_	_
+8	VERB	_	VERB	VERB	_	0	root	_	_
+9	AUX	_	AUX	AUX	_	8	aux	_	_
+10	PUNCT	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	ADV	_	ADV	ADV	_	2	advmod	_	_
+2	ADJ	_	ADJ	ADJ	_	4	nsubj	_	_
+3	VERB	_	VERB	VERB	_	4	cop	_	_
+4	PRON	_	PRON	PRON	_	0	root	_	_
+5	PART	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+2	PRON	_	PRON	PINT	PronType=Int	4	obj	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4	VERB	_	VERB	VERB	_	0	root	_	_
+5	DET	_	DET	DET	_	6	det	_	_
+6	NOUN	_	NOUN	NOUN	_	4	nsubj	_	_
+7	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+2	PRON	_	PRON	PRON	_	6	nsubj	_	_
+3	PART	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	PRON	_	PRON	PRON	_	6	obj	_	_
+5	PART	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	VERB	_	VERB	VERB	_	0	root	_	_
+7	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	VERB	_	VERB	VERB	_	0	root	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	8	punct	_	_
+2	ADV	_	ADV	PINT	PronType=Int	8	obl	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	8	aux:val	_	_
+4	DET	_	DET	DET	_	8	det	_	_
+5	PART	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	ADV	_	ADV	ADV	_	8	advmod	_	_
+7	PART	_	PART	CLNOM	Clitic=Nomcl	6	case	_	_
+8	NOUN	_	NOUN	NOUN	_	0	root	_	_
+9	PUNCT	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	8	punct	_	_
+2	NOUN	_	NOUN	NOUN	_	8	nsubj	_	_
+3	PART	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	PART	_	PART	CL2P	Clitic=Spcl	8	aux:val	_	_
+5	PUNCT	_	PUNCT	PUNCT	_	2	punct	_	_
+6	ADV	_	ADV	PINT	PronType=Int	8	advmod	_	_
+7	NOUN	_	NOUN	NOUN	_	8	obj	_	_
+8	VERB	_	VERB	VERB	_	0	root	_	_
+9	AUX	_	AUX	AUX	_	8	aux	_	_
+10	PUNCT	_	PUNCT	PUNCT	_	8	punct	_	_
+
+1	ADV	_	ADV	ADV	_	5	advmod	_	_
+2	PART	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+3	ADJ	_	ADJ	ADJ	_	4	amod	_	_
+4	NOUN	_	NOUN	NOUN	_	5	nsubj	_	_
+5	VERB	_	VERB	VERB	_	0	root	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	12	cc	_	_
+7	PRON	_	PRON	PRON	_	12	obj	_	_
+8	PART	_	PART	CLNOM	Clitic=Nomcl	7	case	_	_
+9	PART	_	PART	CL2P	Clitic=Spcl	12	aux:val	_	_
+10	PRON	_	PRON	PRON	_	12	nsubj	_	_
+11	PART	_	PART	CLNOM	Clitic=Nomcl	10	case	_	_
+12	VERB	_	VERB	VERB	_	5	conj	_	_
+13	PART	_	PART	CLPL	Clitic=Lfcl	12	Lfcl	_	_
+14	VERB	_	VERB	VERB	_	12	aux	_	_
+15	PUNCT	_	PUNCT	PUNCT	_	12	punct	_	_
+
+1	DET	_	DET	DET	_	3	det	_	_
+2	NOUN	_	NOUN	NOUN	_	3	compound	_	_
+3	NOUN	_	NOUN	NOUN	_	11	nsubj	_	_
+4	PART	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	PART	_	PART	CL2P	Clitic=Spcl	11	aux:val	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	3	punct	_	_
+7	PUNCT	_	PUNCT	PUNCT	_	11	punct	_	_
+8	PRON	_	PRON	PINT	PronType=Int	11	obj	_	_
+9	DET	_	DET	DET	_	10	det	_	_
+10	NOUN	_	NOUN	NOUN	_	11	iobj	_	_
+11	VERB	_	VERB	VERB	_	0	root	_	_
+12	AUX	_	AUX	AUX	_	11	aux	_	_
+13	PUNCT	_	PUNCT	PUNCT	_	11	punct	_	_
+
+1	ADJ	_	ADJ	ADJ	_	2	amod	_	_
+2	NOUN	_	NOUN	NOUN	_	3	obj	_	_
+3	VERB	_	VERB	VERB	_	0	root	_	_
+4	PUNCT	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	ADV	_	ADV	ADV	_	2	advmod	_	_
+2	VERB	_	VERB	VERB	_	7	advcl	_	_
+3	DET	_	DET	DET	_	4	det	_	_
+4	NOUN	_	NOUN	NOUN	_	7	nsubj	_	_
+5	PART	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	VERB	_	VERB	VERB	_	7	compound	_	_
+7	VERB	_	VERB	VERB	_	0	root	_	_
+8	AUX	_	AUX	AUX	_	7	aux	_	_
+9	PUNCT	_	PUNCT	PUNCT	_	7	punct	_	_
+10	VERB	_	VERB	VERB	_	7	advcl	_	_
+11	PUNCT	_	PUNCT	PUNCT	_	10	punct	_	_
+
+1	ADV	_	ADV	ADV	_	4	advmod	_	_
+2	PART	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+3	NOUN	_	NOUN	NOUN	_	4	nsubj	_	_
+4	VERB	_	VERB	VERB	_	0	root	_	_
+5	AUX	_	AUX	AUX	_	4	aux	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+7	VERB	_	VERB	VERB	_	0	root	_	_
+8	PUNCT	_	PUNCT	PUNCT	_	1	punct	_	_
+9	VERB	_	VERB	VERB	_	1	advcl	_	_
+10	PART	_	PART	CL2P	Clitic=Spcl	1	aux:val	_	_
+11	AUX	_	AUX	AUX	_	8	aux	_	_
+12	AUX	_	AUX	AUX	_	5	aux	_	_
+13	ADV	_	ADV	ADV	_	8	advmod	_	_
+14	VERB	_	VERB	VERB	_	1	advcl	_	_
+15	PUNCT	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	PRON	_	PRON	PRON	_	5	nsubj	_	_
+2	PART	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+3	NOUN	_	NOUN	NOUN	_	5	obl	_	_
+4	PART	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	VERB	_	VERB	VERB	_	0	root	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	7	punct	_	_
+2	ADV	_	ADV	PINT	PronType=Int	7	advmod	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	7	aux:val	_	_
+4	DET	_	DET	DET	_	5	det	_	_
+5	NOUN	_	NOUN	NOUN	_	7	nsubj	_	_
+6	PART	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+7	VERB	_	VERB	VERB	_	0	root	_	_
+8	AUX	_	AUX	AUX	_	7	aux	_	_
+9	PUNCT	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	VERB	_	VERB	VERB	_	0	root	_	_
+2	NOUN	_	NOUN	NOUN	_	1	case	_	_
+3	ADJ	_	ADJ	ADJ	_	2	amod	_	_
+4	PART	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	PUNCT	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	PRON	_	PRON	PRON	_	3	nsubj	_	_
+2	PART	_	PART	CL2P	Clitic=Spcl	3	aux:val	_	_
+3	ADJ	_	ADJ	ADJ	_	0	root	_	_
+4	PART	_	PART	CLPL	Clitic=Lfcl	3	Lfcl	_	_
+5	PART	_	PART	CLPL	Clitic=Lfcl	3	Lfcl	_	_
+6	VERB	_	VERB	VERB	_	3	cop	_	_
+7	PUNCT	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+2	ADJ	_	ADJ	ADJ	_	4	nsubj	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4	VERB	_	VERB	VERB	_	0	root	_	_
+5	PART	_	PART	CLPL	Clitic=Lfcl	4	Lfcl	_	_
+6	PART	_	PART	CLPL	Clitic=Lfcl	4	Lfcl	_	_
+7	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	ADV	_	ADV	ADV	_	2	advmod	_	_
+2	VERB	_	VERB	VERB	_	5	nsubj	_	_
+3	PART	_	PART	CLPL	Clitic=Lfcl	2	Lfcl	_	_
+4	VERB	_	VERB	VERB	_	5	cop	_	_
+5	PRON	_	PRON	PRON	_	0	root	_	_
+6	PART	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+2	PRON	_	PRON	PINT	PronType=Int	3	amod	_	_
+3	NOUN	_	NOUN	NOUN	_	6	obl	_	_
+4	PART	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	PART	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+6	PROPN	_	PROPN	PROPN	_	0	root	_	_
+7	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	VERB	_	VERB	VERB	_	4	nsubj	_	_
+2	PART	_	PART	CL2P	Clitic=Spcl	1	aux:val	_	_
+3	ADJ	_	ADJ	ADJ	_	4	amod	_	_
+4	NOUN	_	NOUN	NOUN	_	0	root	_	_
+5	PUNCT	_	PUNCT	PUNCT	_	1	punct	_	_
+6	ADJ	_	ADJ	ADJ	_	4	amod	_	_
+7	PART	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+8	PUNCT	_	PUNCT	PUNCT	_	6	punct	_	_
+
+1	INTJ	_	INTJ	INTJ	_	4	discourse	_	_
+2	PUNCT	_	PUNCT	PUNCT	_	1	punct	_	_
+3	ADV	_	ADV	ADV	_	4	advmod	_	_
+4	VERB	_	VERB	VERB	_	0	root	_	_
+5	VERB	_	VERB	VERB	_	4	advcl	_	_
+6	ADJ	_	ADJ	ADJ	_	7	amod	_	_
+7	NOUN	_	NOUN	NOUN	_	10	obj	_	_
+8	ADJ	_	ADJ	ADJ	_	7	amod	_	_
+9	PART	_	PART	CLPL	Clitic=Lfcl	8	Lfcl	_	_
+10	VERB	_	VERB	VERB	_	4	advcl	_	_
+11	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+2	PRON	_	PRON	PRON	_	5	nsubj	_	_
+3	PART	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	PRON	_	PRON	PRON	_	5	obj	_	_
+5	VERB	_	VERB	VERB	_	0	root	_	_
+6	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	CCONJ	_	CCONJ	CONJ	_	7	cc	_	_
+2	PUNCT	_	PUNCT	PUNCT	_	7	punct	_	_
+3	ADV	_	ADV	PINT	PronType=Int	7	advmod	_	_
+4	PART	_	PART	CL2P	Clitic=Spcl	7	aux:val	_	_
+5	PRON	_	PRON	PRON	_	7	nsubj	_	_
+6	PART	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+7	VERB	_	VERB	VERB	_	0	root	_	_
+8	PUNCT	_	PUNCT	PUNCT	_	7	punct	_	_
+
+1	DET	_	DET	DET	_	2	det	_	_
+2	NOUN	_	NOUN	NOUN	_	3	obj	_	_
+3	VERB	_	VERB	VERB	_	0	root	_	_
+4	PUNCT	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	NOUN	_	NOUN	NOUN	_	3	obl	_	_
+2	ADJ	_	ADJ	ADJ	_	3	advmod	_	_
+3	VERB	_	VERB	VERB	_	0	root	_	_
+4	PUNCT	_	PUNCT	PUNCT	_	3	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+2	PRON	_	PRON	PRON	_	5	nsubj	_	_
+3	PART	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	PART	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+5	VERB	_	VERB	VERB	_	0	root	_	_
+6	PART	_	PART	CLPL	Clitic=Lfcl	5	Lfcl	_	_
+7	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	CCONJ	_	CCONJ	CONJ	_	4	cc	_	_
+2	DET	_	DET	DET	_	3	det	_	_
+3	NOUN	_	NOUN	NOUN	_	4	nsubj	_	_
+4	VERB	_	VERB	VERB	_	0	root	_	_
+5	PART	_	PART	CLPL	Clitic=Lfcl	4	Lfcl	_	_
+6	AUX	_	AUX	AUX	_	4	aux	_	_
+7	PUNCT	_	PUNCT	PUNCT	_	4	punct	_	_
+
+1	VERB	_	VERB	VERB	_	0	root	_	_
+2	PUNCT	_	PUNCT	PUNCT	_	1	punct	_	_
+3	ADJ	_	ADJ	ADJ	_	4	amod	_	_
+4	NOUN	_	NOUN	NOUN	_	6	nmod	_	_
+5	PART	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	NOUN	_	NOUN	NOUN	_	1	obj	_	_
+7	PART	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+8	PUNCT	_	PUNCT	PUNCT	_	1	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+2	CCONJ	_	CCONJ	CONJ	_	5	cc	_	_
+3	PART	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+4	DET	_	DET	DET	_	5	det	_	_
+5	NOUN	_	NOUN	NOUN	_	0	root	_	_
+6	PRON	_	PRON	PINT	PronType=Int	5	nsubj	_	_
+7	VERB	_	VERB	VERB	_	5	cop	_	_
+8	AUX	_	AUX	AUX	_	7	aux	_	_
+9	PUNCT	_	PUNCT	PUNCT	_	5	punct	_	_
+
+1	PUNCT	_	PUNCT	PUNCT	_	3	punct	_	_
+2	PINT	_	PINT	PINT	PronType=Int	3	obj	_	_
+3	VERB	_	VERB	VERB	_	0	root	_	_
+4	AUX	_	AUX	AUX	_	3	aux	_	_
+5	PUNCT	_	PUNCT	PUNCT	_	3	punct	_	_
+
