@@ -1,14 +1,22 @@
 # Read-Me
 
-This repository accompanies the paper "Building an Endangered Language Resource in the Classroom: Universal Dependencies for Kakataibo", presented at the LREC2022. It contains the code that has been used for the experiments, the raw data for all treebanks used in those experiments, as well as the different training/dev/test splits and embeddings that have been used. Further, the folder "experiments" contains the raw results, the scripts that have been used for summarizing the results, scripts for creating summary statistics of the raw data, as well as scripts that derive the distribution of tags across the different splits.
+This repository accompanies the paper "Building an Endangered Language Resource in the Classroom: Universal Dependencies for Kakataibo", presented at the LREC2022. It contains the code that has been used for the experiments, the raw data for all treebanks used in those experiments, as well as the different training/dev/test splits and embeddings that have been used.
+
+The folder */data/* is the first release of the Kakataibo and Shipibo treebanks. Different subfolders include the different embeddings and delixcalized versions of the data, as well as the different splits. The folder */models/* contains the POS-tagging scripts and all resources used for the experiments. Further, the folder */experiments/* contains the raw results, the scripts that have been used for summarizing the results, scripts for creating summary statistics of the raw data, as well as scripts that derive the distribution of tags across the different splits.
 
 The experiments relied mainly on two frameworks that provide implementations for various model architectures: [flair](https://github.com/flairNLP/flair) (Akbik et al. 2019, version 0.10) for POS-tagging, and [supar](https://github.com/yzhangcs/parser) (Zhang et al. 2020, version 1.01) for dependency parsing.
 
 The treebanks for Kazakh that have been used in some of the experiments are part of the UD_Kazakh treebanks that are published in the current UD release, [version 2.9](https://github.com/UniversalDependencies/UD_Kazakh-KTB) (Makazhanov et al. 2015, Tyers et al. 2015).
 
+## Instructions for the Part-of-speech tagging experiment
+
+The flair-implementation for the POS-tagging is mainly organized in scripts within the folder */models/*. The script *preprocessing.py* organizes all splits for the different datasets. The splits have been made with a random seed of 42 and make use of many of the functions imported from *helper_functions.py*. The next step was training the embeddings, which has been done in *flair_emb.py* for the monolingual embeddings, and *flair_ft-multi.py* for the finetuned embeddings of the jw300-embeddings respectively. Finally, the script *flair_pos.py* implements various of the settings used for the experiment. The input needs to be changed manually in order to reproduce the different experiment settings. Templates are included in the script, but are currently commented out so that only one model runs at a time.
+
+The output of all embeddings and models is saved in the folder */models/resources/*. Due to size reasons, the models are not included in the repository.
+
 ## Instructions for the dependency parser experiment
 
-On the gpu server we have available, only python3.6 runs. This means we can only install an older version of supar (1.0.1) and we needed to do some tweaks for the code. The most important change for reproducing the results with newer versions:
+The dependency parser is included as a command line command. On the gpu server we have available, only python3.6 runs. This means we can only install an older version of supar (1.0.1) and we needed to do some tweaks for the code. The most important change for reproducing the results with newer versions:
 
 - `cmds.biaffine_dependency` becomes `cmds.biaffine_dep` in newer versions.
 - `cmds.crf2o_dependency` becomes `cmds.crf2o_dependency` in newer versions.
